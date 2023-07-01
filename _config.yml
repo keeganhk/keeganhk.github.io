@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qijian Zhang"
+title                    : "Personal Page"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Qijian Zhang"
   avatar           : "qijianzhang.png"
-  bio              : "Ph.D. at CityU"
+  bio              : "City University of Hong Kong, Department of Computer Science"
   location         : "Hong Kong"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
