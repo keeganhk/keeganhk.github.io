@@ -35,16 +35,31 @@ Publications
 
     <tr>
       <td style="border: none;" width="25%">
+        <img src="images2/PointMCD_TMM2023.png">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="files/PointMCD_TMM2023.pdf">
+          <papertitle><font size="3">PointMCD: Boosting Deep Point Cloud Encoders via Multi-view Cross-modal Distillation for 3D Shape Recognition</font></papertitle>
+        </a>
+        <br>
+        <font size="3"><strong>Qijian Zhang</strong>, Junhui Hou, Yue Qian</font>
+        <br>
+        <font size="3"><strong><em>IEEE TMM</em></strong> 2023 <a href="https://github.com/keeganhk/PointMCD"><font size="3">[Code]</font></a></font>
+      </td>
+    </tr>
+
+    <tr>
+      <td style="border: none;" width="25%">
         <img src="images2/Flattening-Net_TPAMI2023.png">
       </td>
       <td style="border: none;" width="75%" valign="middle">
         <a href="files/Flattening-Net_TPAMI2023.pdf">
-          <papertitle><font size="3">Flattening-Net : Deep Regular 2D Representation for 3D Point Cloud Analysis</font></papertitle>
+          <papertitle><font size="3">Flattening-Net: Deep Regular 2D Representation for 3D Point Cloud Analysis</font></papertitle>
         </a>
         <br>
         <font size="3"><strong>Qijian Zhang</strong>, Junhui Hou, Yue Qian, Yiming Zeng, Juyong Zhang, Ying He</font>
         <br>
-        <font size="3"><strong>TPAMI 2023</strong> <a href="https://github.com/keeganhk/Flattening-Net"><font size="3">[Code]</font></a></font>
+        <font size="3"><strong><em>IEEE TPAMI</em></strong> 2023 <a href="https://github.com/keeganhk/Flattening-Net"><font size="3">[Code]</font></a></font>
       </td>
     </tr>
     
@@ -60,7 +75,7 @@ Publications
         <br>
         <font size="3"><strong>Qijian Zhang</strong>, Junhui Hou, Yue Qian, Antoni B. Chan, Juyong Zhang, Ying He</font>
         <br>
-        <font size="3"><strong>IJCV 2022</strong> <a href="https://github.com/keeganhk/RegGeoNet"><font size="3">[Code]</font></a></font>
+        <font size="3"><strong><em>IJCV</em></strong> 2022 <a href="https://github.com/keeganhk/RegGeoNet"><font size="3">[Code]</font></a></font>
       </td>
     </tr>
 
