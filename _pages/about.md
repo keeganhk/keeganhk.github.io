@@ -29,7 +29,7 @@ My research focuses on 3D point cloud processing, geometry modeling, cross-modal
     <tr>
     
       <td style="border: none;">
-        <img src="images2/RegGeoNet_IJCV2022.png" alt="VMNet_TPAMI2022" width="200" height="">
+        <img src="images2/RegGeoNet_IJCV2022.png">
       </td>
       
       <td style="border: none;" valign="middle">
