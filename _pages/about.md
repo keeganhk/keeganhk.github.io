@@ -22,9 +22,8 @@ Research
 My research focuses on 3D point cloud processing, geometry modeling, cross-modal learning.
 
 
-<table
-  border="0"
-  style="width:100%;border:0px;border-spacing:0px ;border-collapse:separate;margin-right:auto;margin-left:auto;">
+
+<table>
   <tbody>
 
     <tr>
