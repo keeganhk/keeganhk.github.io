@@ -21,7 +21,7 @@ Research
 ======
 My research focuses on 3D point cloud processing, geometry modeling, cross-modal learning.
 
-5
+6
 
 
 <table style="border: none;">
@@ -45,9 +45,9 @@ My research focuses on 3D point cloud processing, geometry modeling, cross-modal
         <br>
         <em>TPAMI</em>, 2022 (ICCV 2021 SI invited)
         <br>
-        paper /
-        code /
-        bibtex /
+        <a href="https://arxiv.org/pdf/2203.11496.pdf">paper</a> /
+        <a href="https://github.com/XuyangBai/TransFusion">code</a> /
+        <a href="data/TransFusion_CVPR2021.bib">bibtex</a>
       </td>
       
     </tr>
