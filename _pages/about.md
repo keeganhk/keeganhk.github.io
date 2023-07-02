@@ -21,7 +21,7 @@ Research
 ======
 My research focuses on 3D point cloud processing, geometry modeling, cross-modal learning.
 
-1
+2
 
 <table style="border: none;">
   <tbody>
@@ -29,18 +29,18 @@ My research focuses on 3D point cloud processing, geometry modeling, cross-modal
 
     <tr>
     
-      <td style="border: none;" width="25%">
+      <td style="border: none;" width="20%">
         <img src="images2/RegGeoNet_IJCV2022.png">
       </td>
       
-      <td style="border: none;" width="75%" valign="middle">
+      <td style="border: none;" width="80%" valign="middle">
         <a href="data/VMNet_TPAMI_merged.pdf">
           <papertitle><font size="3">RegGeoNet: Learning Regular Representations for Large-Scale 3D Point Clouds</font></papertitle>
         </a>
         <br>
-        <strong>Qijian Zhang</strong>, Junhui Hou, Yue Qian, Antoni B. Chan, Juyong Zhang, Ying He
+        <font size="3"><strong>Qijian Zhang</strong>, Junhui Hou, Yue Qian, Antoni B. Chan, Juyong Zhang, Ying He</font>
         <br>
-        <em>IJCV</em>, 2022
+        <font size="3"><em>IJCV</em>, 2022</font>
         <br>
         <a href="https://link.springer.com/article/10.1007/s11263-022-01682-w">paper</a> /
         <a href="https://github.com/keeganhk/RegGeoNet">code</a>
