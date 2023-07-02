@@ -23,7 +23,7 @@ My research focuses on 3D point cloud processing, geometry modeling, cross-modal
 
 
 
-<table>
+<table border=0>
   <tbody>
 
     <tr>
