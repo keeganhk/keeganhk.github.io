@@ -21,9 +21,10 @@ Research
 ======
 My research focuses on 3D point cloud processing, geometry modeling, cross-modal learning.
 
-3
+4
 
-<table>
+
+<table style="border: none;">
   <tbody>
 
 
