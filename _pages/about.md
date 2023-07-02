@@ -21,7 +21,7 @@ Research
 ======
 My research focuses on 3D point cloud processing, geometry modeling, cross-modal learning.
 
-2
+3
 
 <table style="border: none;">
   <tbody>
@@ -34,7 +34,7 @@ My research focuses on 3D point cloud processing, geometry modeling, cross-modal
       </td>
       
       <td style="border: none;" width="80%" valign="middle">
-        <a href="data/VMNet_TPAMI_merged.pdf">
+        <a href="files/RegGeoNet_IJCV2022.pdf">
           <papertitle><font size="3">RegGeoNet: Learning Regular Representations for Large-Scale 3D Point Clouds</font></papertitle>
         </a>
         <br>
@@ -42,8 +42,8 @@ My research focuses on 3D point cloud processing, geometry modeling, cross-modal
         <br>
         <font size="3"><em>IJCV</em>, 2022</font>
         <br>
-        <a href="https://link.springer.com/article/10.1007/s11263-022-01682-w">paper</a> /
-        <a href="https://github.com/keeganhk/RegGeoNet">code</a>
+        <a href="https://link.springer.com/article/10.1007/s11263-022-01682-w"><font size="3">paper</font></a> /
+        <a href="https://github.com/keeganhk/RegGeoNet"><font size="3">code</font></a>
       </td>
       
     </tr>
