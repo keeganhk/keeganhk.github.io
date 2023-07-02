@@ -44,7 +44,7 @@ Publications
         <br>
         <font size="3"><strong>Qijian Zhang</strong>, Junhui Hou, Yue Qian</font>
         <br>
-        <font size="3"><strong><em>IEEE TMM</em></strong> 2023 <a href="https://github.com/keeganhk/PointMCD"><font size="3">[Code]</font></a></font>
+        <font size="3"><em>IEEE TMM</em> 2023 <a href="https://github.com/keeganhk/PointMCD"><font size="3">[Code]</font></a></font>
       </td>
     </tr>
 
@@ -59,7 +59,7 @@ Publications
         <br>
         <font size="3"><strong>Qijian Zhang</strong>, Junhui Hou, Yue Qian, Yiming Zeng, Juyong Zhang, Ying He</font>
         <br>
-        <font size="3"><strong><em>IEEE TPAMI</em></strong> 2023 <a href="https://github.com/keeganhk/Flattening-Net"><font size="3">[Code]</font></a></font>
+        <font size="3"><em>IEEE TPAMI</em> 2023 <a href="https://github.com/keeganhk/Flattening-Net"><font size="3">[Code]</font></a></font>
       </td>
     </tr>
     
@@ -75,7 +75,7 @@ Publications
         <br>
         <font size="3"><strong>Qijian Zhang</strong>, Junhui Hou, Yue Qian, Antoni B. Chan, Juyong Zhang, Ying He</font>
         <br>
-        <font size="3"><strong><em>IJCV</em></strong> 2022 <a href="https://github.com/keeganhk/RegGeoNet"><font size="3">[Code]</font></a></font>
+        <font size="3"><em>IJCV</em> 2022 <a href="https://github.com/keeganhk/RegGeoNet"><font size="3">[Code]</font></a></font>
       </td>
     </tr>
 
