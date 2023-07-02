@@ -39,12 +39,12 @@ Publications
       </td>
       <td style="border: none;" width="75%" valign="middle">
         <a href="files/Flattening-Net_TPAMI2023.pdf">
-          <papertitle><font size="2.75">Flattening-Net : Deep Regular 2D Representation for 3D Point Cloud Analysis</font></papertitle>
+          <papertitle><font size="2.95">Flattening-Net : Deep Regular 2D Representation for 3D Point Cloud Analysis</font></papertitle>
         </a>
         <br>
-        <font size="2.75"><strong>Qijian Zhang</strong>, Junhui Hou, Yue Qian, Yiming Zeng, Juyong Zhang, Ying He</font>
+        <font size="2.95"><strong>Qijian Zhang</strong>, Junhui Hou, Yue Qian, Yiming Zeng, Juyong Zhang, Ying He</font>
         <br>
-        <font size="2.75">IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>) 2023 <a href="https://github.com/keeganhk/Flattening-Net"><font size="2.75">[Code]</font></a></font>
+        <font size="2.95">IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>) 2023 <a href="https://github.com/keeganhk/Flattening-Net"><font size="2.95">[Code]</font></a></font>
       </td>
     </tr>
     
@@ -55,12 +55,12 @@ Publications
       </td>
       <td style="border: none;" width="75%" valign="middle">
         <a href="files/RegGeoNet_IJCV2022.pdf">
-          <papertitle><font size="2.75">RegGeoNet: Learning Regular Representations for Large-Scale 3D Point Clouds</font></papertitle>
+          <papertitle><font size="2.95">RegGeoNet: Learning Regular Representations for Large-Scale 3D Point Clouds</font></papertitle>
         </a>
         <br>
-        <font size="2.75"><strong>Qijian Zhang</strong>, Junhui Hou, Yue Qian, Antoni B. Chan, Juyong Zhang, Ying He</font>
+        <font size="2.95"><strong>Qijian Zhang</strong>, Junhui Hou, Yue Qian, Antoni B. Chan, Juyong Zhang, Ying He</font>
         <br>
-        <font size="2.75">International Journal of Computer Vision (<strong>IJCV</strong>) 2022 <a href="https://github.com/keeganhk/RegGeoNet"><font size="2.75">[Code]</font></a></font>
+        <font size="2.95">International Journal of Computer Vision (<strong>IJCV</strong>) 2022 <a href="https://github.com/keeganhk/RegGeoNet"><font size="2.95">[Code]</font></a></font>
       </td>
     </tr>
 
