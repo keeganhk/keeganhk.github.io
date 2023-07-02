@@ -11,19 +11,16 @@ redirect_from:
 
 I am currently a third-year Ph.D. student in the Department of Computer Science at [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by *Prof. [Junhui Hou](https://sites.google.com/site/junhuihoushomepage/)*. I have also been working closely with *Prof. [Ying He](https://personal.ntu.edu.sg/yhe/)* and *Prof. [Runmin Cong](https://rmcong.github.io/)*. Previously, I received my B.Sc. degree in Electronic Information Science and Technology from [Beijing Normal University](https://english.bnu.edu.cn/).
 
-My research focuses on 3D point cloud processing, geometry modeling, cross-modal learning.
-
-
-<font color=#527BBD>Research</font>
-
-<font color= #871F78>我是紫色</font>
 
 News
 ======
 XXX
 
 
-Publications
+Research
 ======
-XXX
+My research focuses on 3D point cloud processing, geometry modeling, cross-modal learning.
+
+
+
 
