@@ -13,7 +13,9 @@ I am currently a third-year Ph.D. student in the Department of Computer Science 
 
 My research focuses on 3D point cloud processing, geometry modeling, cross-modal learning.
 
-<font color=red>kk</font>
+
+<font color=#527BBD>Research</font>
+
 
 News
 ======
