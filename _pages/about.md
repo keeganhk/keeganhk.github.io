@@ -19,9 +19,16 @@ News
 
 Research
 ======
-My research focuses on 3D point cloud processing, geometry modeling, cross-modal learning.
+My research interests fall into the general application of machine learning techniques on 3D geometry and vision problems. Currently, I focus on the following specific topics:
+1. Point Cloud Processing, Shape Analysis, and Geometry Modeling;
+2. (Static and Dynamic) 3D Representation, Reconstruction, and Generation;
+3. Cross-Modal Learning between 2D and 3D Domains;
+4. Real-World 3D Perception (e.g., 3D Semantic Segmentation, 3D Object Detection).
 
-11
+
+
+
+
 
 <table style="border: none;">
   <tbody>
