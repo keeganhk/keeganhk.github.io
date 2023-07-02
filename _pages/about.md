@@ -21,15 +21,15 @@ Research
 ======
 My research focuses on 3D point cloud processing, geometry modeling, cross-modal learning.
 
-1
+2
 
 <table border=0>
   <tbody>
 
+
     <tr>
-      <td style="padding:20px;width:25%;vertical-align:middle">
-        <img src="images/VMNet_TPAMI2022.png" alt="VMNet_TPAMI2022" width="200" height=""
-          style="border-style: none">
+      <td>
+        <img src="images/VMNet_TPAMI2022.png" alt="VMNet_TPAMI2022" width="200" height="" style="border-style: none">
       </td>
       <td width="75%" valign="middle">
         <a href="data/VMNet_TPAMI_merged.pdf">
@@ -47,6 +47,7 @@ My research focuses on 3D point cloud processing, geometry modeling, cross-modal
         bibtex /
       </td>
     </tr>
+
 
   </tbody>
 </table>
