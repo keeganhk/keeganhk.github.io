@@ -21,6 +21,7 @@ Research
 ======
 My research focuses on 3D point cloud processing, geometry modeling, cross-modal learning.
 
+<td><font size="5">這是 size = 5 的文字大小</font></td>
 
 <table style="border: none;">
   <tbody>
@@ -34,7 +35,7 @@ My research focuses on 3D point cloud processing, geometry modeling, cross-modal
       
       <td style="border: none;" width="75%" valign="middle">
         <a href="data/VMNet_TPAMI_merged.pdf">
-          <papertitle>RegGeoNet: Learning Regular Representations for Large-Scale 3D Point Clouds</papertitle>
+          <papertitle><font size="5">RegGeoNet: Learning Regular Representations for Large-Scale 3D Point Clouds</font></papertitle>
         </a>
         <br>
         <strong>Qijian Zhang</strong>, Junhui Hou, Yue Qian, Antoni B. Chan, Juyong Zhang, Ying He
