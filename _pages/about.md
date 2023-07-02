@@ -29,10 +29,10 @@ My research focuses on 3D point cloud processing, geometry modeling, cross-modal
 
 
     <tr>
-      <td>
+      <td style="border: none;">
         <img src="images/VMNet_TPAMI2022.png" alt="VMNet_TPAMI2022" width="200" height="">
       </td>
-      <td width="75%" valign="middle">
+      <td style="border: none;" width="75%" valign="middle">
         <a href="data/VMNet_TPAMI_merged.pdf">
           <papertitle>Voxel-Mesh Network for Geodesic-Aware 3D Semantic Segmentation of Indoor Scenes
           </papertitle>
