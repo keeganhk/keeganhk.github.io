@@ -28,7 +28,7 @@ My research focuses on 3D point cloud processing, geometry modeling, cross-modal
 
     <tr>
     
-      <td style="border: none;" width="75%">
+      <td style="border: none;" width="25%">
         <img src="images2/RegGeoNet_IJCV2022.png">
       </td>
       
