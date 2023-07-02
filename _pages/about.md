@@ -16,6 +16,7 @@ My research focuses on 3D point cloud processing, geometry modeling, cross-modal
 
 <font color=#527BBD>Research</font>
 
+<font color= #871F78>我是紫色</font>
 
 News
 ======
