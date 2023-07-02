@@ -37,13 +37,12 @@ My research focuses on 3D point cloud processing, geometry modeling, cross-modal
           <papertitle>RegGeoNet: Learning Regular Representations for Large-Scale 3D Point Clouds</papertitle>
         </a>
         <br>
-        <strong>Xuyang Bai</strong>, Zeyu Hu, Jiaxiang Shang, Runze Zhang, Jiayu Dong, Xin Wang, Guangyuan
-        Sun, Hongbo Fu, Chiew-Lan Tai
+        <strong>Qijian Zhang</strong>, Junhui Hou, Yue Qian, Antoni B. Chan, Juyong Zhang, Ying He
         <br>
-        <em>TPAMI</em>, 2022 (ICCV 2021 SI invited)
+        <em>IJCV</em>, 2022
         <br>
-        <a href="https://arxiv.org/pdf/2203.11496.pdf">paper</a> /
-        <a href="https://github.com/XuyangBai/TransFusion">code</a>
+        <a href="https://link.springer.com/article/10.1007/s11263-022-01682-w">paper</a> /
+        <a href="https://github.com/keeganhk/RegGeoNet">code</a>
       </td>
       
     </tr>
