@@ -44,7 +44,7 @@ Publications
         <br>
         <font size="3"><strong>Qijian Zhang</strong>, Junhui Hou, Yue Qian, Yiming Zeng, Juyong Zhang, Ying He</font>
         <br>
-        <font size="3">IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>) 2023 <a href="https://github.com/keeganhk/Flattening-Net"><font size="3">[Code]</font></a></font>
+        <font size="3"><strong>TPAMI 2023</strong> <a href="https://github.com/keeganhk/Flattening-Net"><font size="3">[Code]</font></a></font>
       </td>
     </tr>
     
@@ -60,7 +60,7 @@ Publications
         <br>
         <font size="3"><strong>Qijian Zhang</strong>, Junhui Hou, Yue Qian, Antoni B. Chan, Juyong Zhang, Ying He</font>
         <br>
-        <font size="3">International Journal of Computer Vision (<strong>IJCV</strong>) 2022 <a href="https://github.com/keeganhk/RegGeoNet"><font size="3">[Code]</font></a></font>
+        <font size="3"><strong>IJCV 2022</strong> <a href="https://github.com/keeganhk/RegGeoNet"><font size="3">[Code]</font></a></font>
       </td>
     </tr>
 
