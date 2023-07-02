@@ -36,11 +36,10 @@ My research focuses on 3D point cloud processing, geometry modeling, cross-modal
       
       <td style="border: none;" width="75%" valign="middle">
         <a href="data/VMNet_TPAMI_merged.pdf">
-          <papertitle>Voxel-Mesh Network for Geodesic-Aware 3D Semantic Segmentation of Indoor Scenes
-          </papertitle>
+          <papertitle>RegGeoNet: Learning Regular Representations for Large-Scale 3D Point Clouds</papertitle>
         </a>
         <br>
-        Zeyu Hu, <strong>Xuyang Bai</strong>, Jiaxiang Shang, Runze Zhang, Jiayu Dong, Xin Wang, Guangyuan
+        <strong>Xuyang Bai</strong>, Zeyu Hu, Jiaxiang Shang, Runze Zhang, Jiayu Dong, Xin Wang, Guangyuan
         Sun, Hongbo Fu, Chiew-Lan Tai
         <br>
         <em>TPAMI</em>, 2022 (ICCV 2021 SI invited)
