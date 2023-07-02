@@ -14,7 +14,7 @@ I am currently a third-year Ph.D. student in the Department of Computer Science 
 
 News
 ======
-XXX
+* xxx
 
 
 Research
