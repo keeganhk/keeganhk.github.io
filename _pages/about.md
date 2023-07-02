@@ -21,7 +21,7 @@ Research
 ======
 My research focuses on 3D point cloud processing, geometry modeling, cross-modal learning.
 
-7
+8
 
 <table style="border: none;">
   <tbody>
@@ -30,7 +30,7 @@ My research focuses on 3D point cloud processing, geometry modeling, cross-modal
     <tr>
     
       <td style="border: none;" width="20%">
-        <img src="images2/RegGeoNet_IJCV2022.png">
+        <img src="images2/Img_RegGeoNet_IJCV2022.png">
       </td>
       
       <td style="border: none;" width="80%" valign="middle">
