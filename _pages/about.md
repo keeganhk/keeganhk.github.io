@@ -21,7 +21,7 @@ Research
 ======
 My research focuses on 3D point cloud processing, geometry modeling, cross-modal learning.
 
-3
+4
 
 <table style="border: none;">
   <tbody>
@@ -40,10 +40,7 @@ My research focuses on 3D point cloud processing, geometry modeling, cross-modal
         <br>
         <font size="3"><strong>Qijian Zhang</strong>, Junhui Hou, Yue Qian, Antoni B. Chan, Juyong Zhang, Ying He</font>
         <br>
-        <font size="3"><em>IJCV</em>, 2022</font>
-        <br>
-        <a href="https://link.springer.com/article/10.1007/s11263-022-01682-w"><font size="3">paper</font></a> /
-        <a href="https://github.com/keeganhk/RegGeoNet"><font size="3">code</font></a>
+        <font size="3"><em>IJCV</em>, 2022 <a href="https://github.com/keeganhk/RegGeoNet"><font size="3">[Code]</font></a></font>
       </td>
       
     </tr>
