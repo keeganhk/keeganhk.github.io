@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 
-I am a Ph.D. student at City University of Hong Kong, supervised by Prof. Junhui Hou (2020-present). Previously, I obtained my B.S. degree from Beijing Normal University in 2019.
+I am currently a third-year Ph.D. student in the Department of Computer Science at [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by *Prof. [Junhui Hou](https://sites.google.com/site/junhuihoushomepage/)*. I have also been working closely with *Prof. [Ying He](https://personal.ntu.edu.sg/yhe/)* and *Prof. [Runmin Cong](https://rmcong.github.io/)*. Previously, I received my B.Sc. degree in Electronic Information Science and Technology from [Beijing Normal University](https://english.bnu.edu.cn/).
+
 My research focuses on 3D point cloud processing, geometry modeling, cross-modal learning.
 
 
