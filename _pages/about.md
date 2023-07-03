@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Bio
+Short Bio
 ======
 I am currently a third-year Ph.D. student in the Department of Computer Science at the [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by Prof. [Junhui Hou](https://sites.google.com/site/junhuihoushomepage/). I have also worked closely with Prof. [Ying He](https://personal.ntu.edu.sg/yhe/) and Prof. [Runmin Cong](https://rmcong.github.io/). Previously, I received my B.Sc. degree in Electronic Information Science and Technology from [Beijing Normal University](https://english.bnu.edu.cn/).
 
