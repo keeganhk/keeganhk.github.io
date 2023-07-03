@@ -43,7 +43,7 @@ Publications
         <br>
         <font size="3"><strong>Qijian Zhang</strong>, Junhui Hou, Yue Qian</font>
         <br>
-        <font size="3"><em>IEEE TMM</em> 2023</font>
+        <font size="3"><em>TMM</em> 2023</font>
       </td>
     </tr>
 
@@ -59,7 +59,7 @@ Publications
         <br>
         <font size="3"><strong>Qijian Zhang</strong>, Junhui Hou, Yue Qian, Yiming Zeng, Juyong Zhang, Ying He</font>
         <br>
-        <font size="3"><em>IEEE TPAMI</em> 2023</font>
+        <font size="3"><em>TPAMI</em> 2023</font>
       </td>
     </tr>
     
