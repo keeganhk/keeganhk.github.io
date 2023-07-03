@@ -27,7 +27,7 @@ The latest trend in the artificial intelligence (AI) era continues to blur the b
 * Point Cloud Representation, Processing, and Analysis
 * Self-Supervised 3D Representation Learning and Cross-Modal 3D Real-World Perception
 
-More recently, with the rapid development of AI-generated content (AIGC) and virtual/augmented reality (VR/AR), I am mainly focusing on neural reconstruction, generation, and rendering of 3D objects/scenes.
+Recently, with the rapid development of AI-generated content (AIGC) and virtual/augmented reality (VR/AR), I am mainly focusing on neural reconstruction, generation, and rendering of 3D objects/scenes.
 
 
 Publications
