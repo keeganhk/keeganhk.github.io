@@ -21,7 +21,7 @@ News
 
 Research
 ======
-The latest trend in the artificial intelligence (AI) era continues to blur the boundaries of different research domains and data modalities. Generally, I have a broad interest in designing machine learning algorithms for various 3D <em>vision</em>, <em>graphics</em>, and <em>geometry</em> processing problems
+The latest trend in the artificial intelligence (AI) era continues to blur the boundaries of different research domains and data modalities. In general, I have a broad interest in designing machine learning algorithms for various 3D <em>vision</em>, <em>graphics</em>, and <em>geometry</em> processing problems
 
 Specifically, my research includes the following topics:
 
