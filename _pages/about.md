@@ -56,6 +56,22 @@ Publications
 
     <tr>
       <td style="border: none;" width="25%">
+        <img src="images2/GLENet_IJCV2023.png" height="80">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="files/GLENet_IJCV2023.pdf">
+          <papertitle><font size="3">GLENet: Boosting 3D Object Detectors with Generative Label Uncertainty Estimation</font></papertitle>
+        </a>
+        <br>
+        <font size="3">Yifan Zhang, <strong>Qijian Zhang</strong>, Zhiyu Zhu, Junhui Hou, Yixuan Yuan</font>
+        <br>
+        <font size="3"><em>IJCV (Accept)</em> 2023</font>
+      </td>
+    </tr>
+
+
+    <tr>
+      <td style="border: none;" width="25%">
         <img src="images2/MOPS-Net_TCSVT2023.png">
       </td>
       <td style="border: none;" width="75%" valign="middle">
