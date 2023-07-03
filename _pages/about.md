@@ -26,6 +26,7 @@ News
 Publications
 ======
 
+1
 
 <table style="border: none;">
   <tbody>
@@ -33,7 +34,7 @@ Publications
 
     <tr>
       <td style="border: none;" width="25%">
-        <img src="images2/PointMCD_TMM2023.png">
+        <img src="images2/PointMCD_TMM2023.png" height="40">
       </td>
       <td style="border: none;" width="75%" valign="middle">
         <a href="files/PointMCD_TMM2023.pdf">
