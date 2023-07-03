@@ -81,6 +81,31 @@ Publications
 
 
 
+
+
+    <tr>
+      <td style="border: none;" width="25%">
+        <img src="images2/RegGeoNet_IJCV2022.png">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="files/RegGeoNet_IJCV2022.pdf">
+          <papertitle><font size="3">CoADNet: Collaborative Aggregation-and-Distribution Networks for Co-Salient Object Detection</font></papertitle>
+        </a>
+        <br>
+        <font size="3"><strong>Qijian Zhang</strong>*, Runmin Cong* , Junhui Hou, Chongyi Li, Yao Zhao</font>
+        <br>
+        <font size="3"><em>NeurIPS</em> 2020</font>
+      </td>
+    </tr>
+
+
+
+
+
+
+
+
+
   </tbody>
 </table>
 
