@@ -22,10 +22,7 @@ News
 
 Research
 ======
-I have a broad interest in developing machine learning algorithms for solving various 3D <u>geometry</u>, <u>vision</u>, and <u>graphics</u> problems.
-
-
-
+I have a broad interest in designing and applying machine learning algorithms for solving various 3D <u><em>geometry</em></u>, <u><em>vision</em></u>, and <u><em>graphics</em></u> problems.
 
 Currently, I focus on the following specific topics:
 * Point Cloud Processing, Shape Analysis, and Geometry Modeling;
