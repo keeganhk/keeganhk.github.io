@@ -21,9 +21,9 @@ News
 
 Research
 ======
-The latest trend in the artificial intelligence (AI) era continues to blur the boundaries of different research domains and data modalities. Generally, I have a broad interest in designing machine learning algorithms for various 3D vision, graphics, and geometry processing problems.
+The latest trend in the artificial intelligence (AI) era continues to blur the boundaries of different research domains and data modalities. Generally, I have a broad interest in designing machine learning algorithms for various 3D <em>vision</em>, <em>graphics</em>, and <em>geometry</em> processing problems
 
-to solve various 3D <u><em>geometry</em></u>, <u><em>vision</em></u>, and <u><em>graphics</em></u> problems. Specifically, my research includes the following topics:
+Specifically, my research includes the following topics:
 
 * Point Cloud Processing, Shape Analysis, and Geometry Modeling;
 * (Static and Dynamic) 3D Representation, Reconstruction, and Generation;
