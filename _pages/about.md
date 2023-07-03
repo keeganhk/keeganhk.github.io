@@ -22,13 +22,12 @@ News
 Research
 ======
 The latest trend in the artificial intelligence (AI) era continues to blur the boundaries of different research domains and data modalities. In general, I have a broad interest in designing machine learning algorithms to solve various <em>3D geometry, vision, and graphics</em> processing problems. In the past few years, my research includes the following specific topics and tasks:
-* Point Cloud Processing, Shape Analysis, and Geometry Modeling;
-* (Static and Dynamic) 3D Representation, Reconstruction, and Generation;
-* Cross-Modal Learning between 2D and 3D Domains;
-* Real-World 3D Perception (e.g., 3D Semantic Segmentation, 3D Object Detection).
+* Image Processing and Recognition
+* Geometric Modeling and Computation
+* Point Cloud Representation, Processing, and Analysis
+* Self-Supervised 3D Representation Learning and Cross-Modal 3D Real-World Perception
 
-
-
+More recently, my research schedule focuses on 3D neural reconstruction, generation, and rendering.
 
 
 Publications
