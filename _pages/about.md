@@ -21,13 +21,13 @@ News
 
 Research
 ======
-The latest trend in the artificial intelligence (AI) era continues to blur the boundaries of different research domains and data modalities. In general, I have a broad interest in designing machine learning algorithms to solve various <em><u>3D geometry, vision, and graphics</u></em> processing problems. In the past few years, my research includes the following specific topics and tasks:
+The latest trend in the artificial intelligence (AI) era continues to blur the boundaries of different research domains and data modalities. In general, I have a broad interest in designing machine learning algorithms to solve various <em>3D geometry, vision, and graphics</em> processing problems. In the past few years, my research includes the following specific topics and tasks:
 * Image Processing and Recognition
 * Geometric Modeling and Computation
 * Point Cloud Representation, Processing, and Analysis
 * Self-Supervised 3D Representation Learning and Cross-Modal 3D Real-World Perception
 
-Recently, with the rapid development of AI-generated content (AIGC) and virtual/augmented reality (VR/AR), I am mainly focusing on <em><u>3D neural reconstruction, generation, and rendering</u></em>.
+Recently, with the rapid development of AI-generated content (AIGC) and virtual/augmented reality (VR/AR), I am mainly focusing on <em>3D neural reconstruction, generation, and rendering</em>.
 
 
 Publications
