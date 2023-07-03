@@ -42,9 +42,10 @@ Publications
         <br>
         <font size="3"><strong>Qijian Zhang</strong>, Junhui Hou, Yue Qian</font>
         <br>
-        <font size="3"><em>IEEE TMM</em> 2023 <a href="https://github.com/keeganhk/PointMCD"><font size="3">[Code]</font></a></font>
+        <font size="3"><em>IEEE TMM</em> 2023</font>
       </td>
     </tr>
+
 
     <tr>
       <td style="border: none;" width="25%">
@@ -57,7 +58,7 @@ Publications
         <br>
         <font size="3"><strong>Qijian Zhang</strong>, Junhui Hou, Yue Qian, Yiming Zeng, Juyong Zhang, Ying He</font>
         <br>
-        <font size="3"><em>IEEE TPAMI</em> 2023 <a href="https://github.com/keeganhk/Flattening-Net"><font size="3">[Code]</font></a></font>
+        <font size="3"><em>IEEE TPAMI</em> 2023</font>
       </td>
     </tr>
     
@@ -73,9 +74,17 @@ Publications
         <br>
         <font size="3"><strong>Qijian Zhang</strong>, Junhui Hou, Yue Qian, Antoni B. Chan, Juyong Zhang, Ying He</font>
         <br>
-        <font size="3"><em>IJCV</em> 2022 <a href="https://github.com/keeganhk/RegGeoNet"><font size="3">[Code]</font></a></font>
+        <font size="3"><em>IJCV</em> 2022</font>
       </td>
     </tr>
+
+
+
+
+
+
+
+
 
 
 
@@ -88,7 +97,71 @@ Publications
         <img src="images2/RegGeoNet_IJCV2022.png">
       </td>
       <td style="border: none;" width="75%" valign="middle">
-        <a href="files/RegGeoNet_IJCV2022.pdf">
+        <a href="files/MOPS-Net_TCSVT2023.pdf">
+          <papertitle><font size="3">Task-Oriented Compact Representation of 3D Point Clouds via A Matrix Optimization-Driven Network</font></papertitle>
+        </a>
+        <br>
+        <font size="3">Yue Qian, Junhui Hou, <strong>Qijian Zhang</strong>, Yiming Zeng, Sam Kwong, Ying He</font>
+        <br>
+        <font size="3"><em>TCSVT</em> 2023</font>
+      </td>
+    </tr>
+
+
+    <tr>
+      <td style="border: none;" width="25%">
+        <img src="images2/RegGeoNet_IJCV2022.png">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="files/WarpingGAN_CVPR2022.pdf">
+          <papertitle><font size="3">WarpingGAN: Warping Multiple Uniform Priors for Adversarial 3D Point Cloud Generation</font></papertitle>
+        </a>
+        <br>
+        <font size="3">Yingzhi Tang, Yue Qian, <strong>Qijian Zhang</strong>, Yiming Zeng, Junhui Hou, Xuefei Zhe</font>
+        <br>
+        <font size="3"><em>CVPR</em> 2022</font>
+      </td>
+    </tr>
+
+
+    <tr>
+      <td style="border: none;" width="25%">
+        <img src="images2/RegGeoNet_IJCV2022.png">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="files/IDEA-Net_CVPR2022.pdf">
+          <papertitle><font size="3">IDEA-Net: Dynamic 3D Point Cloud Interpolation via Deep Embedding Alignment</font></papertitle>
+        </a>
+        <br>
+        <font size="3">Yiming Zeng, Yue Qian, <strong>Qijian Zhang</strong>, Junhui Hou, Yixuan Yuan, Ying He</font>
+        <br>
+        <font size="3"><em>CVPR</em> 2022</font>
+      </td>
+    </tr>
+
+
+    <tr>
+      <td style="border: none;" width="25%">
+        <img src="images2/RegGeoNet_IJCV2022.png">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="files/DAFNet_TIP2021.pdf">
+          <papertitle><font size="3">Dense Attention Fluid Network for Salient Object Detection in Optical Remote Sensing Images</font></papertitle>
+        </a>
+        <br>
+        <font size="3"><strong>Qijian Zhang</strong>, Runmin Cong, Chongyi Li, Ming-Ming Cheng, Yuming Fang, Xiaochun Cao, Yao Zhao, Sam Kwong</font>
+        <br>
+        <font size="3"><em>TIP</em> 2021</font>
+      </td>
+    </tr>
+    
+
+    <tr>
+      <td style="border: none;" width="25%">
+        <img src="images2/RegGeoNet_IJCV2022.png">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="files/CoADNet_NeurIPS2020.pdf">
           <papertitle><font size="3">CoADNet: Collaborative Aggregation-and-Distribution Networks for Co-Salient Object Detection</font></papertitle>
         </a>
         <br>
