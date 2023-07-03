@@ -10,18 +10,24 @@ redirect_from:
 
 
 
-I am currently a third-year Ph.D. student in the Department of Computer Science at [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by Prof. [Junhui Hou](https://sites.google.com/site/junhuihoushomepage/). I have also worked closely with Prof. [Ying He](https://personal.ntu.edu.sg/yhe/) and Prof. [Runmin Cong](https://rmcong.github.io/). Previously, I received my B.Sc. degree in Electronic Information Science and Technology from Beijing Normal University.
+I am currently a third-year Ph.D. student in the Department of Computer Science at [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by Prof. [Junhui Hou](https://sites.google.com/site/junhuihoushomepage/). I have also worked closely with Prof. [Ying He](https://personal.ntu.edu.sg/yhe/) and Prof. [Runmin Cong](https://rmcong.github.io/). Previously, I received my B.Sc. degree in Electronic Information Science and Technology from [Beijing Normal University](https://english.bnu.edu.cn/).
 
 
 
 News
 ======
-* [2/7/2023] Homepage created.
+* [2/7/2023] Personal homepage created.
+
 
 
 Research
 ======
-My research interests fall into the general application of machine learning techniques on 3D geometry and vision problems. Currently, I focus on the following specific topics:
+I have a broad interest in developing machine learning algorithms for solving various 3D <u>geometry</u>, <u>vision</u>, and <u>graphics</u> problems.
+
+
+
+
+Currently, I focus on the following specific topics:
 * Point Cloud Processing, Shape Analysis, and Geometry Modeling;
 * (Static and Dynamic) 3D Representation, Reconstruction, and Generation;
 * Cross-Modal Learning between 2D and 3D Domains;
