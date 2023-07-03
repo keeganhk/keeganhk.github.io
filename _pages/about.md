@@ -50,6 +50,22 @@ Publications
 
     <tr>
       <td style="border: none;" width="25%">
+        <img src="images2/MOPS-Net_TCSVT2023.png">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="files/MOPS-Net_TCSVT2023.pdf">
+          <papertitle><font size="3">Task-Oriented Compact Representation of 3D Point Clouds via A Matrix Optimization-Driven Network</font></papertitle>
+        </a>
+        <br>
+        <font size="3">Yue Qian, Junhui Hou, <strong>Qijian Zhang</strong>, Yiming Zeng, Sam Kwong, Ying He</font>
+        <br>
+        <font size="3"><em>TCSVT</em> 2023</font>
+      </td>
+    </tr>
+
+
+    <tr>
+      <td style="border: none;" width="25%">
         <img src="images2/Flattening-Net_TPAMI2023.png">
       </td>
       <td style="border: none;" width="75%" valign="middle">
@@ -76,35 +92,6 @@ Publications
         <font size="3"><strong>Qijian Zhang</strong>, Junhui Hou, Yue Qian, Antoni B. Chan, Juyong Zhang, Ying He</font>
         <br>
         <font size="3"><em>IJCV</em> 2022</font>
-      </td>
-    </tr>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <tr>
-      <td style="border: none;" width="25%">
-        <img src="images2/MOPS-Net_TCSVT2023.png">
-      </td>
-      <td style="border: none;" width="75%" valign="middle">
-        <a href="files/MOPS-Net_TCSVT2023.pdf">
-          <papertitle><font size="3">Task-Oriented Compact Representation of 3D Point Clouds via A Matrix Optimization-Driven Network</font></papertitle>
-        </a>
-        <br>
-        <font size="3">Yue Qian, Junhui Hou, <strong>Qijian Zhang</strong>, Yiming Zeng, Sam Kwong, Ying He</font>
-        <br>
-        <font size="3"><em>TCSVT</em> 2023</font>
       </td>
     </tr>
 
