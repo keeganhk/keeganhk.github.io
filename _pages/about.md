@@ -26,7 +26,7 @@ News
 Publications
 ======
 
-2
+
 
 <table style="border: none;">
   <tbody>
@@ -95,7 +95,7 @@ Publications
 
     <tr>
       <td style="border: none;" width="25%">
-        <img src="images2/RegGeoNet_IJCV2022.png">
+        <img src="images2/MOPS-Net_TCSVT2023.png">
       </td>
       <td style="border: none;" width="75%" valign="middle">
         <a href="files/MOPS-Net_TCSVT2023.pdf">
@@ -111,7 +111,7 @@ Publications
 
     <tr>
       <td style="border: none;" width="25%">
-        <img src="images2/RegGeoNet_IJCV2022.png">
+        <img src="images2/WarpingGAN_CVPR2022.png">
       </td>
       <td style="border: none;" width="75%" valign="middle">
         <a href="files/WarpingGAN_CVPR2022.pdf">
@@ -127,7 +127,7 @@ Publications
 
     <tr>
       <td style="border: none;" width="25%">
-        <img src="images2/RegGeoNet_IJCV2022.png">
+        <img src="images2/IDEA-Net_CVPR2022.png">
       </td>
       <td style="border: none;" width="75%" valign="middle">
         <a href="files/IDEA-Net_CVPR2022.pdf">
@@ -143,7 +143,7 @@ Publications
 
     <tr>
       <td style="border: none;" width="25%">
-        <img src="images2/RegGeoNet_IJCV2022.png">
+        <img src="images2/DAFNet_TIP2021.png">
       </td>
       <td style="border: none;" width="75%" valign="middle">
         <a href="files/DAFNet_TIP2021.pdf">
@@ -159,7 +159,7 @@ Publications
 
     <tr>
       <td style="border: none;" width="25%">
-        <img src="images2/RegGeoNet_IJCV2022.png">
+        <img src="images2/CoADNet_NeurIPS2020.png">
       </td>
       <td style="border: none;" width="75%" valign="middle">
         <a href="files/CoADNet_NeurIPS2020.pdf">
