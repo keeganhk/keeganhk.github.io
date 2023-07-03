@@ -33,7 +33,6 @@ Recently, with the rapid development of AI-generated content (AIGC) and virtual/
 Publications
 ======
 
-
 <table style="border: none;">
   <tbody>
 
