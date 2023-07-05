@@ -182,14 +182,7 @@ Publications
     </tr>
 
 
-
-
   </tbody>
 </table>
-
-
-<p></p>
-
-<p></p>
 
 
