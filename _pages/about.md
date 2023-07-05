@@ -192,6 +192,4 @@ Publications
 
 <p></p>
 
-<p></p>
-
 
