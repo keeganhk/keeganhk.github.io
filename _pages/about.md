@@ -65,7 +65,7 @@ Publications
         <br>
         <font size="3">Yifan Zhang, <strong>Qijian Zhang</strong>, Zhiyu Zhu, Junhui Hou, Yixuan Yuan</font>
         <br>
-        <font size="3"><em>IJCV (Accept)</em> 2023</font>
+        <font size="3"><em>IJCV</em> 2023</font>
       </td>
     </tr>
 
