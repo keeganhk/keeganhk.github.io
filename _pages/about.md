@@ -17,7 +17,7 @@ I am currently a final-year Ph.D. student in the Department of Computer Science 
 News
 ======
 * [2023.07.02] Personal homepage created.
-* [2023.09.23] Two papers accepted to NeurIPS-2023. See you in New Orleans!
+* [2023.09.23] Two papers accepted to **NeurIPS-2023**. See you in New Orleans! 😃
 
 
 
