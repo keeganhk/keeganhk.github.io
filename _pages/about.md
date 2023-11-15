@@ -25,7 +25,7 @@ Research
 ======
 The latest trend in the artificial intelligence (AI) era continues to blur the boundaries of different research domains and data modalities. In general, I have a broad interest in developing deep learning models to solve various 3D geometry, vision, and graphics problems. More recently, I am particularly interested in AI-generated content (AIGC) and virtual/augmented/mixed reality (VR/AR/MR) applications.
 
-Specifically, in the past few years, my research focuses on the following topics and tasks:
+Specifically, in the past few years, my research mainly focuses on the following topics and tasks:
 * 3D Point Cloud Processing
 * Geometric Computing and Modeling
 * Cross-Modal (2D-3D, Visual-Geometric) Learning
@@ -36,10 +36,11 @@ Publications
 ======
 
 
+
 <table style="border: none;">
   <tbody>
-    
-    
+
+
     <tr>
       <td style="border: none;" width="25%">
         <img src="images2/PointVST_Pre-Print.png" height="80">
@@ -54,20 +55,53 @@ Publications
         <font size="3"><em>Pre-print</em></font>
       </td>
     </tr>
+    
+    
+    <tr>
+      <td style="border: none;" width="25%">
+        <img src="images2/HaP_Pre-Print.png" height="80">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="https://arxiv.org/abs/2311.02892">
+          <papertitle><font size="3">Human as Points: Explicit Point-based 3D Human Reconstruction from Single-view RGB Images</font></papertitle>
+        </a>
+        <br>
+        <font size="3">Yingzhi Tang, <strong>Qijian Zhang</strong>, Junhui Hou, Yebin Liu</font>
+        <br>
+        <font size="3"><em>Pre-print</em></font>
+      </td>
+    </tr>
+    
+    
+    <tr>
+      <td style="border: none;" width="25%">
+        <img src="images2/Cross-PCC_Pre-Print.png" height="80">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="https://arxiv.org/abs/2212.00564">
+          <papertitle><font size="3">Leveraging Single-View Images for Unsupervised 3D Point Cloud Completion</font></papertitle>
+        </a>
+        <br>
+        <font size="3">Lintai Wu, <strong>Qijian Zhang</strong>, Junhui Hou, Yong Xu</font>
+        <br>
+        <font size="3"><em>Pre-print</em></font>
+      </td>
+    </tr>
 
 
-   
+  </tbody>
+</table>
 
 
 
+<hr />
 
 
 
-
-
-
-
-
+<table style="border: none;">
+  <tbody>
+    
+    
     <tr>
       <td style="border: none;" width="25%">
         <img src="images2/NeuroGF_NeurIPS2023.png" height="80">
