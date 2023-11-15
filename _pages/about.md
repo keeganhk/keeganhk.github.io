@@ -35,10 +35,37 @@ Specifically, in the past few years, my research focuses on the following topics
 Publications
 ======
 
----
 
 <table style="border: none;">
   <tbody>
+    
+    
+    <tr>
+      <td style="border: none;" width="25%">
+        <img src="images2/PointVST_Pre-Print.png" height="80">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="https://arxiv.org/abs/2212.14197">
+          <papertitle><font size="3">Self-Supervised Pre-training for 3D Point Clouds via View-Specific Point-to-Image Translation</font></papertitle>
+        </a>
+        <br>
+        <font size="3"><strong>Qijian Zhang</strong>, Junhui Hou</font>
+        <br>
+        <font size="3"><em>Pre-print</em></font>
+      </td>
+    </tr>
+
+
+   
+
+
+
+
+
+
+
+
+
 
 
     <tr>
