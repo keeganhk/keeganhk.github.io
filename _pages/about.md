@@ -11,7 +11,7 @@ redirect_from:
 
 Short Bio
 ======
-I am currently a final-year Ph.D. student in the Department of Computer Science at the [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by Prof. [Junhui Hou](https://sites.google.com/site/junhuihoushomepage/). I have also worked closely with Prof. [Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping), Prof. [Ying He](https://personal.ntu.edu.sg/yhe/) and Prof. [Runmin Cong](https://rmcong.github.io/). Previously, I received my B.Sc. degree in Electronic Information Science and Technology from [Beijing Normal University](https://english.bnu.edu.cn/).
+I am currently a final-year Ph.D. student in the Department of Computer Science at the [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by Prof. [Junhui Hou](https://sites.google.com/site/junhuihoushomepage/). I am also fortunate to work closely with Prof. [Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping), Prof. [Ying He](https://personal.ntu.edu.sg/yhe/) and Prof. [Runmin Cong](https://rmcong.github.io/). Previously, I received my B.Sc. degree in Electronic Information Science and Technology from [Beijing Normal University](https://english.bnu.edu.cn/).
 
 
 News
@@ -23,13 +23,13 @@ News
 
 Research
 ======
-The latest trend in the artificial intelligence (AI) era continues to blur the boundaries of different research domains and data modalities. In general, I have a broad interest in designing machine learning algorithms to solve various <em>3D geometry, vision, and graphics</em> processing problems. In the past few years, my research includes the following specific topics and tasks:
-* Image Processing and Recognition
-* Geometric Modeling and Computation
-* Point Cloud Representation, Processing, and Analysis
-* Self-Supervised 3D Representation Learning and Cross-Modal 3D Real-World Perception
+The latest trend in the artificial intelligence (AI) era continues to blur the boundaries of different research domains and data modalities. In general, I have a broad interest in developing deep learning models to solve various 3D geometry, vision, and graphics problems. More recently, I am particularly interested in AI-generated content (AIGC) and virtual/augmented/mixed reality (VR/AR/MR) applications.
 
-Recently, with the rapid development of AI-generated content (AIGC) and virtual/augmented reality (VR/AR), I am mainly focusing on <em>3D neural reconstruction, generation, and rendering</em>.
+Specifically, in the past few years, my research covers the following topics and tasks:
+* 3D Point Cloud Processing
+* Geometric Computing and Modeling
+* Cross-Modal (2D-3D, Visual-Geometric) Learning
+* Neural Representation, Rendering, and Reconstruction
 
 
 Publications
@@ -39,6 +39,12 @@ Publications
   <tbody>
 
 
+
+
+
+
+
+    
     <tr>
       <td style="border: none;" width="25%">
         <img src="images2/PointMCD_TMM2023.png" height="80">
