@@ -39,10 +39,36 @@ Publications
   <tbody>
 
 
+    <tr>
+      <td style="border: none;" width="25%">
+        <img src="images2/NeuroGF_NeurIPS2023.png" height="80">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="files/NeuroGF_NeurIPS2023.pdf">
+          <papertitle><font size="3">NeuroGF: A Neural Representation for Fast Geodesic Distance and Path Queries</font></papertitle>
+        </a>
+        <br>
+        <font size="3"><strong>Qijian Zhang</strong>, Junhui Hou, Yohanes Yudhi Adikusuma, Wenping Wang, Ying He</font>
+        <br>
+        <font size="3"><em>NeurIPS</em> 2023</font>
+      </td>
+    </tr>
 
 
-
-
+    <tr>
+      <td style="border: none;" width="25%">
+        <img src="images2/UPIDet_NeurIPS2023.png" height="80">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="files/UPIDet_NeurIPS2023.pdf">
+          <papertitle><font size="3">Unleash the Potential of Image Branch for Cross-modal 3D Object Detection</font></papertitle>
+        </a>
+        <br>
+        <font size="3">Yifan Zhang, <strong>Qijian Zhang</strong>, Junhui Hou, Yixuan Yuan, Guoliang Xing</font>
+        <br>
+        <font size="3"><em>NeurIPS</em> 2023</font>
+      </td>
+    </tr>
 
     
     <tr>
