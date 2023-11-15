@@ -32,7 +32,7 @@ Specifically, in the past few years, my research mainly focuses on the following
 * Neural Representation, Rendering, and Reconstruction
 
 
-Publications
+Selected Publications
 ======
 
 
