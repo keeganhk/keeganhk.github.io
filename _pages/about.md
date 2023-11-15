@@ -35,6 +35,8 @@ Specifically, in the past few years, my research focuses on the following topics
 Publications
 ======
 
+---
+
 <table style="border: none;">
   <tbody>
 
