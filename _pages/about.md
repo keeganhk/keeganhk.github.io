@@ -25,7 +25,7 @@ Research
 ======
 The latest trend in the artificial intelligence (AI) era continues to blur the boundaries of different research domains and data modalities. In general, I have a broad interest in developing deep learning models to solve various 3D geometry, vision, and graphics problems. More recently, I am particularly interested in AI-generated content (AIGC) and virtual/augmented/mixed reality (VR/AR/MR) applications.
 
-Specifically, in the past few years, my research covers the following topics and tasks:
+Specifically, in the past few years, my research focuses on the following topics and tasks:
 * 3D Point Cloud Processing
 * Geometric Computing and Modeling
 * Cross-Modal (2D-3D, Visual-Geometric) Learning
