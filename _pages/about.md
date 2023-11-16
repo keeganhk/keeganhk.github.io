@@ -94,7 +94,7 @@ Selected Publications
 
 
 
-<hr style="border: 1.5px solid grey;"/>
+<hr style="border: 1.0px solid grey;"/>
 
 
 
@@ -283,7 +283,7 @@ Selected Publications
 
 
 
-<hr style="border: 1.5px solid grey;"/>
+<hr style="border: 1.0px solid grey;"/>
 
 
 
