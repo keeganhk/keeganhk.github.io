@@ -94,7 +94,7 @@ Selected Publications
 
 
 
-<hr />
+<hr style="border: 2px solid grey;"/>
 
 
 
@@ -282,8 +282,52 @@ Selected Publications
 </table>
 
 
+
+<hr style="border: 2px solid grey;"/>
+
+
+
+<table style="border: none;">
+  <tbody>
+
+
+    <tr>
+      <td style="border: none;" width="25%">
+        <img src="images2/AirportDet_GRSL2018.png" height="80">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="files/AirportDet_GRSL2018.pdf">
+          <papertitle><font size="3">Airport Extraction via Complementary Saliency Analysis and Saliency-Oriented Active Contour Model</font></papertitle>
+        </a>
+        <br>
+        <font size="3"><strong>Qijian Zhang</strong>, Libao Zhang, Wenqi Shi, Yue Liu</font>
+        <br>
+        <font size="3"><em>GRSL</em> 2018</font>
+      </td>
+    </tr>
+    
+    
+    <tr>
+      <td style="border: none;" width="25%">
+        <img src="images2/AirportDet_ICIP2018.png" height="80">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="files/AirportDet_ICIP2018.pdf">
+          <papertitle><font size="3">Integrating Sparse Reconstruction Saliency and Target-Aware Active Contour Model for Airport Extraction</font></papertitle>
+        </a>
+        <br>
+        <font size="3"><strong>Qijian Zhang</strong>, Wenqi Shi, Libao Zhang, Yue Liu</font>
+        <br>
+        <font size="3"><em>ICIP</em> 2018</font>
+      </td>
+    </tr>
+
+
+  </tbody>
+</table>
+
+
+
 <p></p>
-
-
 
 
