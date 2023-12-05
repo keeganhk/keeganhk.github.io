@@ -17,9 +17,8 @@ I am currently a final-year Ph.D. student in the Department of Computer Science 
 News
 ======
 * [2023.07.02] Personal homepage created.
-* [2023.09.23] Two papers accepted to **NeurIPS-2023**. See you in New Orleans! 😃
-
-
+* [2023.09.23] Two papers accepted by **NeurIPS-2023**. See you in New Orleans! 😃
+* [2023.12.04] One paper accepted by **TMM**.
 
 Research
 ======
@@ -71,22 +70,6 @@ Selected Publications
         <font size="3"><em>Pre-print</em></font>
       </td>
     </tr>
-    
-    
-    <tr>
-      <td style="border: none;" width="25%">
-        <img src="images2/Cross-PCC_Pre-Print.png" height="80">
-      </td>
-      <td style="border: none;" width="75%" valign="middle">
-        <a href="https://arxiv.org/abs/2212.00564">
-          <papertitle><font size="3">Leveraging Single-View Images for Unsupervised 3D Point Cloud Completion</font></papertitle>
-        </a>
-        <br>
-        <font size="3">Lintai Wu, <strong>Qijian Zhang</strong>, Junhui Hou, Yong Xu</font>
-        <br>
-        <font size="3"><em>Pre-print</em></font>
-      </td>
-    </tr>
 
 
   </tbody>
@@ -101,6 +84,22 @@ Selected Publications
 <table style="border: none;">
   <tbody>
     
+
+    <tr>
+      <td style="border: none;" width="25%">
+        <img src="images2/Cross-PCC_Pre-Print.png" height="80">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="https://arxiv.org/abs/2212.00564">
+          <papertitle><font size="3">Leveraging Single-View Images for Unsupervised 3D Point Cloud Completion</font></papertitle>
+        </a>
+        <br>
+        <font size="3">Lintai Wu, <strong>Qijian Zhang</strong>, Junhui Hou, Yong Xu</font>
+        <br>
+        <font size="3"><em>TMM</em> 2023</font>
+      </td>
+    </tr>
+
     
     <tr>
       <td style="border: none;" width="25%">
