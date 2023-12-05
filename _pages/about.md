@@ -16,7 +16,7 @@ I am currently a final-year Ph.D. student in the Department of Computer Science 
 
 News
 ======
-* [2023.07.02] My personal homepage was created.
+* [2023.07.02] Personal homepage created.
 * [2023.09.23] Two papers (**NeuroGF** for neural geodesics learning, **UPIDet** for cross-modal 3D detection) got accepted by **NeurIPS-2023**. See you in New Orleans! 😃
 * [2023.12.04] One paper (**Cross-PCC** for cross-modal image-assisted unsupervised point cloud completion) got accepted by **TMM**.
 
