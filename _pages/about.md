@@ -18,7 +18,8 @@ News
 ======
 * [2023.07.02] Personal homepage created.
 * [2023.09.23] Two papers (**NeuroGF** for neural geodesics learning, **UPIDet** for cross-modal 3D detection) got accepted by **NeurIPS-2023**. See you in New Orleans! 😃
-* [2023.12.04] One paper (**Cross-PCC** for cross-modal image-assisted unsupervised point cloud completion) got accepted by **TMM**.
+* [2023.12.04] One paper (**Cross-PCC** for cross-modal image-assisted unsupervised 3D point cloud completion) got accepted by **TMM**.
+* [2023.12.19] One paper (**PointVST** for self-supervised 3D point cloud backbone pre-training) got accepted by **TVCG**.
 
 
 
@@ -27,8 +28,7 @@ Research
 The latest trend in the artificial intelligence (AI) era continues to blur the boundaries of different research domains and data modalities. In general, I have a broad interest in developing deep learning models to solve various 3D geometry, vision, and graphics problems. More recently, I am particularly interested in AI-generated content (AIGC) and virtual/augmented/mixed reality (VR/AR/MR) applications.
 
 Specifically, in the past few years, my research mainly focuses on the following topics and tasks:
-* 3D Point Cloud Processing
-* Geometric Computing and Modeling
+* 3D Point Cloud Processing; Geometric Computing and Modeling
 * Cross-Modal (2D-3D, Visual-Geometric) Learning
 * Neural Representation, Rendering, and Reconstruction
 
@@ -40,22 +40,6 @@ Selected Publications
 
 <table style="border: none;">
   <tbody>
-
-
-    <tr>
-      <td style="border: none;" width="25%">
-        <img src="images2/PointVST_Pre-Print.png" height="80">
-      </td>
-      <td style="border: none;" width="75%" valign="middle">
-        <a href="https://arxiv.org/abs/2212.14197">
-          <papertitle><font size="3">Self-Supervised Pre-training for 3D Point Clouds via View-Specific Point-to-Image Translation</font></papertitle>
-        </a>
-        <br>
-        <font size="3"><strong>Qijian Zhang</strong>, Junhui Hou</font>
-        <br>
-        <font size="3"><em>Pre-print</em></font>
-      </td>
-    </tr>
     
     
     <tr>
@@ -86,6 +70,24 @@ Selected Publications
 <table style="border: none;">
   <tbody>
     
+
+
+    <tr>
+      <td style="border: none;" width="25%">
+        <img src="images2/PointVST_Pre-Print.png" height="80">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="https://arxiv.org/abs/2212.14197">
+          <papertitle><font size="3">PointVST: Self-Supervised Pre-training for 3D Point Clouds via View-Specific Point-to-Image Translation</font></papertitle>
+        </a>
+        <br>
+        <font size="3"><strong>Qijian Zhang</strong>, Junhui Hou</font>
+        <br>
+        <font size="3"><em>TVCG</em> 2023</font>
+      </td>
+    </tr>
+
+
 
     <tr>
       <td style="border: none;" width="25%">
