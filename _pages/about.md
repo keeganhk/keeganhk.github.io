@@ -11,7 +11,7 @@ redirect_from:
 
 Short Bio
 ======
-I am currently a final-year Ph.D. student in the Department of Computer Science at the [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by Prof. [Junhui Hou](https://sites.google.com/site/junhuihoushomepage/). I was also fortunate to work closely with Prof. [Ying He](https://personal.ntu.edu.sg/yhe/), Prof. [Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping), and Prof. [Runmin Cong](https://rmcong.github.io/). Previously, I received my B.Sc. degree in Electronic Information Science and Technology from [Beijing Normal University](https://english.bnu.edu.cn/).
+I am currently a final-year Ph.D. student in the Department of Computer Science at the [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by Prof. [Junhui Hou](https://sites.google.com/site/junhuihoushomepage/). I was also fortunate to work closely with Prof. [Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping), Prof. [Ying He](https://personal.ntu.edu.sg/yhe/), and Prof. [Runmin Cong](https://rmcong.github.io/). Previously, I received my B.Sc. degree in Electronic Information Science and Technology from [Beijing Normal University](https://english.bnu.edu.cn/), guided by Prof. [Libao Zhang](https://ai.bnu.edu.cn/xygk/szdw/zgj/49ceccd9459d438b931a61c02ed805a7.htm) and Prof. [Fengxiang Ge](https://zkgyy.bnu.edu.cn/yjjg/fzxtgjkxzx/rcdw3/131454.htm).
 
 
 News
