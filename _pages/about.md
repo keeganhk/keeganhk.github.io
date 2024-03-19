@@ -40,7 +40,23 @@ Selected Publications
 
 <table style="border: none;">
   <tbody>
+
     
+    <tr>
+      <td style="border: none;" width="25%">
+        <img src="images2/ParaPoint_Pre-Print.png" height="80">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="https://arxiv.org/abs/2403.10349">
+          <papertitle><font size="3">ParaPoint: Learning Global Free-Boundary Surface Parameterization of 3D Point Clouds</font></papertitle>
+        </a>
+        <br>
+        <font size="3"><strong>Qijian Zhang</strong>, Junhui Hou, Ying He</font>
+        <br>
+        <font size="3"><em>Pre-print</em></font>
+      </td>
+    </tr>
+
     
     <tr>
       <td style="border: none;" width="25%">
