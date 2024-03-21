@@ -57,6 +57,22 @@ Selected Publications
       </td>
     </tr>
 
+
+    <tr>
+      <td style="border: none;" width="25%">
+        <img src="images2/SPCV_Pre-Print.png" height="80">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="https://arxiv.org/abs/2403.01129">
+          <papertitle><font size="3">Dynamic 3D Point Cloud Sequences as 2D Videos</font></papertitle>
+        </a>
+        <br>
+        <font size="3">Yiming Zeng, Junhui Hou, <strong>Qijian Zhang</strong>, Siyu Ren, Wenping Wang</font>
+        <br>
+        <font size="3"><em>Pre-print</em></font>
+      </td>
+    </tr>
+
     
     <tr>
       <td style="border: none;" width="25%">
