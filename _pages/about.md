@@ -11,26 +11,26 @@ redirect_from:
 
 Short Bio
 ======
-I am currently a final-year Ph.D. student in the Department of Computer Science at the [City University of Hong Kong](https://www.cityu.edu.hk/), supervised by Prof. [Junhui Hou](https://sites.google.com/site/junhuihoushomepage/). I was also fortunate to work closely with Prof. [Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping), Prof. [Ying He](https://personal.ntu.edu.sg/yhe/), and Prof. [Runmin Cong](https://rmcong.github.io/). Previously, I received my B.Sc. degree in Electronic Information Science and Technology from [Beijing Normal University](https://english.bnu.edu.cn/).
+I am currently a final-year Ph.D. student in the Department of Computer Science at the City University of Hong Kong, supervised by Prof. [Junhui Hou](https://sites.google.com/site/junhuihoushomepage/). I am also so fortunate to work closely with Prof. [Ying He](https://personal.ntu.edu.sg/yhe/) from NTU and Prof. [Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping) from TAMU. Previously, I worked as a research intern guided by Prof. [Runmin Cong](https://rmcong.github.io/). I received my B.Sc. degree in Electronic Information Science and Technology from Beijing Normal University.
 
 
 News
 ======
 * [2023.07.02] Personal homepage created.
-* [2023.09.23] Two papers (**NeuroGF** for neural geodesics learning, **UPIDet** for cross-modal 3D detection) got accepted by **NeurIPS-2023**. See you in New Orleans! 😃
-* [2023.12.04] One paper (**Cross-PCC** for cross-modal image-assisted unsupervised 3D point cloud completion) got accepted by **TMM**.
-* [2023.12.19] One paper (**PointVST** for self-supervised 3D point cloud backbone pre-training) got accepted by **TVCG**.
+* [2023.09.23] Two papers (*NeuroGF* for neural geodesics learning, *UPIDet* for cross-modal 3D detection) got accepted by *NeurIPS-2023*. See you in New Orleans!
+* [2023.12.04] One paper (*Cross-PCC* for cross-modal image-assisted unsupervised 3D point cloud completion) got accepted by *TMM*.
+* [2023.12.19] One paper (*PointVST* for self-supervised 3D point cloud backbone pre-training) got accepted by *TVCG*.
 
 
 
 Research
 ======
-The latest trend in the artificial intelligence (AI) era continues to blur the boundaries of different research domains and data modalities. In general, I have a broad interest in developing deep learning models to solve various 3D geometry, vision, and graphics problems.
+The latest trend in the artificial intelligence (AI) era continues to blur the boundaries of different research domains and data modalities. In general, I have broad interests in developing deep learning models to solve various 3D geometry, vision, and graphics problems.
 
-In the past few years, my research mainly focuses on the following topics and tasks:
-* 3D Point Cloud Processing; Geometric Computing and Modeling
-* Cross-Modal (2D-3D, Visual-Geometric) Learning
-* Neural Representation, Rendering, and Reconstruction
+In the past few years, my research mainly includes the following tasks and topics:
+* Geometric (Mesh, Point Cloud, Implicit Field) Computing and Modeling; 
+* Neural 3D Representation, Rendering, Reconstruction, and Generation;
+* Multi-Modal (2D-3D, Visual-Geometric) Learning: Pre-training, Alignment, Fusion, Distillation.
 
 
 Selected Publications
