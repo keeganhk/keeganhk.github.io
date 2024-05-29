@@ -25,7 +25,7 @@ News
 
 Research
 ======
-The latest trend in the artificial intelligence (AI) era continues to blur the boundaries of different research domains and data modalities. In general, I have broad interests in developing deep learning models to solve various 3D geometry, vision, and graphics problems.
+The latest trend in the artificial intelligence era continues to blur the boundaries of different research domains and data modalities. In general, I have broad interests in developing deep learning models to solve various 3D geometry, vision, and graphics problems.
 
 In the past few years, my research mainly includes the following tasks and topics:
 * Geometric (Mesh, Point Cloud, Implicit Field) Computing and Modeling; 
