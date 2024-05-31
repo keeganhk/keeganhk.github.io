@@ -32,6 +32,8 @@ In the past few years, my research mainly includes the following tasks and topic
 * Neural 3D Representation, Rendering, Reconstruction, and Generation;
 * Multi-Modal (2D-3D, Visual-Geometric) Learning: Pre-training, Alignment, Fusion, Distillation.
 
+Currently, I focus on *neuralized geometry processing pipelines*, i.e., (1) (at the data level) exploring neural representations for geometric data; (2) (at the model level) replacing conventional geometric computation/optimization algorithms with more powerful neural architectures.
+
 
 Selected Publications
 ======
