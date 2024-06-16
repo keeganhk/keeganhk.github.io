@@ -17,10 +17,10 @@ I am currently a final-year Ph.D. student in the Department of Computer Science 
 News
 ======
 * [2023.07.02] Personal homepage created.
-* [2023.09.23] Two papers (**NeuroGF** for neural geodesics learning, **UPIDet** for cross-modal 3D detection) got accepted by **NeurIPS-2023**.
+* [2023.09.23] Two papers (**NeuroGF** for neural geodesics learning, **UPIDet** for cross-modal 3D object detection) got accepted by **NeurIPS-2023**.
 * [2023.12.04] One paper (**Cross-PCC** for cross-modal image-assisted unsupervised 3D point cloud completion) got accepted by **TMM**.
 * [2023.12.19] One paper (**PointVST** for self-supervised 3D point cloud backbone pre-training) got accepted by **TVCG**.
-* [2024.06.16] One paper (**SPCV** for neural structurization of dynamic point cloud sequences) got accepted by **TPAMI**.
+* [2024.06.16] One paper (**SPCV** for spatio-temporal structurization of dynamic 3D point cloud sequences) got accepted by **TPAMI**.
 
 
 
