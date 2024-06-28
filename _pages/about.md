@@ -17,10 +17,10 @@ I am currently a final-year Ph.D. student in the Department of Computer Science 
 News
 ======
 * [2023.07.02] Personal homepage created.
-* [2023.09.23] Two papers (***NeuroGF*** for neural geodesics learning, ***UPIDet*** for cross-modal 3D object detection) got accepted by ***NeurIPS-2023***.
-* [2023.12.04] One paper (***Cross-PCC*** for cross-modal image-assisted unsupervised 3D point cloud completion) got accepted by ***TMM***.
-* [2023.12.19] One paper (***PointVST*** for self-supervised 3D point cloud backbone pre-training) got accepted by ***TVCG***.
-* [2024.06.16] One paper (***SPCV*** for spatio-temporal structurization of dynamic 3D point cloud sequences) got accepted by ***TPAMI***.
+* [2023.09.23] Two papers (**NeuroGF** for neural geodesics learning, **UPIDet** for cross-modal 3D object detection) got accepted by **NeurIPS-2023**.
+* [2023.12.04] One paper (**Cross-PCC** for cross-modal image-assisted unsupervised 3D point cloud completion) got accepted by **TMM**.
+* [2023.12.19] One paper (**PointVST** for self-supervised 3D point cloud backbone pre-training) got accepted by **TVCG**.
+* [2024.06.16] One paper (**SPCV** for spatio-temporal structurization of dynamic 3D point cloud sequences) got accepted by **TPAMI**.
 
 
 
@@ -33,7 +33,7 @@ In the past few years, my research mainly includes the following tasks and topic
 * Neural 3D Representation, Rendering, Reconstruction, and Generation;
 * Multi-Modal (2D-3D, Visual-Geometric) Learning: Pre-training, Alignment, Fusion, Distillation.
 
-Currently, I focus on *neuralized geometry processing pipelines*, i.e., (1) (at the data level) exploring neural representations for geometric data; (2) (at the model level) replacing conventional geometric computation/optimization algorithms with more powerful neural architectures.
+Currently, I focus on ***neuralized geometry processing pipelines***, i.e., (1) (at the data level) exploring neural representations for geometric data; (2) (at the model level) replacing conventional geometric computation/optimization algorithms with more powerful neural architectures.
 
 
 Selected Publications
