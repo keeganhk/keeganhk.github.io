@@ -11,7 +11,7 @@ redirect_from:
 
 Short Bio
 ======
-I am currently a final-year Ph.D. student in the Department of Computer Science at the City University of Hong Kong, supervised by Prof. [Junhui Hou](https://sites.google.com/site/junhuihoushomepage/). I am also so fortunate to work with Prof. [Ying He](https://personal.ntu.edu.sg/yhe/) from NTU and Prof. [Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping) from TAMU. Previously, I worked as a research intern guided by Prof. [Runmin Cong](https://rmcong.github.io/). I received my B.Sc. degree in Electronic Information Science and Technology from Beijing Normal University.
+I obtained my Ph.D. degree (2020-2024) in Computer Science at City University of Hong Kong, supervised by Prof. [Junhui Hou](https://sites.google.com/site/junhuihoushomepage/). I was also so fortunate to work with Prof. [Ying He](https://personal.ntu.edu.sg/yhe/) from NTU and Prof. [Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping) from TAMU. Previously, I worked as a research intern guided by Prof. [Runmin Cong](https://rmcong.github.io/). I received my B.Sc. degree in Electronic Information Science and Technology at Beijing Normal University.
 
 
 News
