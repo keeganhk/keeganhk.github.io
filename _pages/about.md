@@ -17,11 +17,11 @@ I obtained my Ph.D. degree (2020-2024) in Computer Science at City University of
 News
 ======
 * [2023.07.02] Personal homepage created.
-* [2023.09.23] Two papers (**NeuroGF** for neural geodesics learning, **UPIDet** for cross-modal 3D object detection) got accepted by **NeurIPS-2023**.
-* [2023.12.04] One paper (**Cross-PCC** for cross-modal image-assisted unsupervised 3D point cloud completion) got accepted by **TMM**.
-* [2023.12.19] One paper (**PointVST** for self-supervised 3D point cloud backbone pre-training) got accepted by **TVCG**.
-* [2024.06.16] One paper (**SPCV** for spatio-temporal structurization of dynamic 3D point cloud sequences) got accepted by **TPAMI**.
-
+* [2023.09.23] Two papers, **NeuroGF** for neural geodesics learning, **UPIDet** for cross-modal 3D object detection, got accepted by **NeurIPS-2023**.
+* [2023.12.04] One paper, **Cross-PCC** for cross-modal image-assisted unsupervised 3D point cloud completion, got accepted by **TMM**.
+* [2023.12.19] One paper, **PointVST** for self-supervised 3D point cloud backbone pre-training, got accepted by **TVCG**.
+* [2024.06.16] One paper, **SPCV** for spatio-temporal structurization of dynamic 3D point cloud sequences, got accepted by **TPAMI**.
+* [2024.09.26] One paper, **Flatten Anything Model (FAM)** for neural surface parameterization (UV unwrapping), got accepted by **NeurIPS-2024**. I really like this work!
 
 
 Research
@@ -43,22 +43,6 @@ Selected Publications
 
 <table style="border: none;">
   <tbody>
-
-    
-    <tr>
-      <td style="border: none;" width="25%">
-        <img src="images2/FAM_Pre-Print.png" height="80">
-      </td>
-      <td style="border: none;" width="75%" valign="middle">
-        <a href="https://arxiv.org/abs/2405.14633">
-          <papertitle><font size="3">Flatten Anything: Unsupervised Neural Surface Parameterization</font></papertitle>
-        </a>
-        <br>
-        <font size="3"><strong>Qijian Zhang</strong>, Junhui Hou, Wenping Wang, Ying He</font>
-        <br>
-        <font size="3"><em>Pre-print</em></font>
-      </td>
-    </tr>
 
     
     <tr>
@@ -88,9 +72,23 @@ Selected Publications
 
 <table style="border: none;">
   <tbody>
+
+
     
-
-
+    <tr>
+      <td style="border: none;" width="25%">
+        <img src="images2/FAM_Pre-Print.png" height="80">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="https://arxiv.org/abs/2405.14633">
+          <papertitle><font size="3">Flatten Anything: Unsupervised Neural Surface Parameterization</font></papertitle>
+        </a>
+        <br>
+        <font size="3"><strong>Qijian Zhang</strong>, Junhui Hou, Wenping Wang, Ying He</font>
+        <br>
+        <font size="3"><em>NeurIPS</em> 2024</font>
+      </td>
+    </tr>
 
 
     <tr>
