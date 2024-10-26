@@ -9,31 +9,32 @@ redirect_from:
 ---
 
 
-Short Bio
+About Me
 ======
-I obtained my Ph.D. degree (2020-2024) in Computer Science at City University of Hong Kong, supervised by Prof. [Junhui Hou](https://sites.google.com/site/junhuihoushomepage/). I was also so fortunate to work with Prof. [Ying He](https://personal.ntu.edu.sg/yhe/) from NTU and Prof. [Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping) from TAMU. Previously, I worked as a research intern guided by Prof. [Runmin Cong](https://rmcong.github.io/). I received my B.Sc. degree in Electronic Information Science and Technology at Beijing Normal University.
+I obtained my Ph.D. degree in Computer Science at City University of Hong Kong, supervised by Prof. [Junhui Hou](https://sites.google.com/site/junhuihoushomepage/). I was also fortunate to work closely with Prof. [Ying He](https://personal.ntu.edu.sg/yhe/) from NTU and Prof. [Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping) from TAMU. Previously, I worked as a research intern guided by Prof. [Runmin Cong](https://rmcong.github.io/). I received my B.Sc. degree in Electronic Information Science and Technology at Beijing Normal University.
 
 
 News
 ======
-* [2023.07.02] Personal homepage created.
-* [2023.09.23] Two papers, **NeuroGF** for neural geodesics learning, **UPIDet** for cross-modal 3D object detection, got accepted by **NeurIPS-2023**.
-* [2023.12.04] One paper, **Cross-PCC** for cross-modal image-assisted unsupervised 3D point cloud completion, got accepted by **TMM**.
-* [2023.12.19] One paper, **PointVST** for self-supervised 3D point cloud backbone pre-training, got accepted by **TVCG**.
-* [2024.06.16] One paper, **SPCV** for spatio-temporal structurization of dynamic 3D point cloud sequences, got accepted by **TPAMI**.
-* [2024.09.26] One paper, **Flatten Anything Model (FAM)** for neural surface parameterization (UV unwrapping), got accepted by **NeurIPS-2024**. I really like this work!
+* [2023.09] Two papers, **NeuroGF** for neural geodesics learning, **UPIDet** for cross-modal 3D object detection, got accepted by **NeurIPS-2023**.
+* [2023.12] One paper, **Cross-PCC** for cross-modal image-assisted unsupervised 3D point cloud completion, got accepted by **TMM**.
+* [2023.12] One paper, **PointVST** for self-supervised 3D point cloud backbone pre-training, got accepted by **TVCG**.
+* [2024.06] One paper, **SPCV** for spatio-temporal structurization of dynamic 3D point cloud sequences, got accepted by **TPAMI**.
+* [2024.09] One paper, **Flatten Anything Model (FAM)** for neural surface parameterization (UV unwrapping), got accepted by **NeurIPS-2024**. I really like this work!
 
 
 Research
 ======
 The latest trend in the artificial intelligence era continues to blur the boundaries of different research domains and data modalities. In general, I have broad interests in developing deep learning models to solve various geometry, vision, and graphics problems.
 
-In the past few years, my research mainly includes the following tasks and topics:
+My research during Ph.D. mainly includes the following tasks and topics:
 * Geometric (Mesh, Point Cloud, Implicit Field) Computing and Modeling; 
 * Neural 3D Representation, Rendering, Reconstruction, and Generation;
 * Multi-Modal (2D-3D, Visual-Geometric) Learning: Pre-training, Alignment, Fusion, Distillation.
 
-Currently, I focus on ***neuralized geometry processing pipelines***, i.e., (1) (at the data level) exploring neural representations for geometric data; (2) (at the model level) replacing conventional geometric computation/optimization algorithms with more powerful neural architectures.
+I am particularly interested in ***Neuralized Geometry Processing***, i.e., (1) (at the data level) exploring neural representations for geometric data; (2) (at the model level) replacing conventional geometric computation/optimization algorithms with more powerful neural architectures.
+
+My current research concentrates on ***3D Generative Models*** and ***AI for Games***.
 
 
 Selected Publications
