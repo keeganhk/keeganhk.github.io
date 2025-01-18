@@ -20,7 +20,7 @@ News
 * [2023.12] One paper, **Cross-PCC** for cross-modal image-assisted unsupervised 3D point cloud completion, got accepted by **TMM**.
 * [2023.12] One paper, **PointVST** for self-supervised 3D point cloud backbone pre-training, got accepted by **TVCG**.
 * [2024.06] One paper, **SPCV** for spatio-temporal structurization of dynamic 3D point cloud sequences, got accepted by **TPAMI**.
-* [2024.09] One paper, **Flatten Anything Model (FAM)** for neural surface parameterization (UV unwrapping), got accepted by **NeurIPS-2024**. I really like this work!
+* [2024.09] One paper, **Flatten Anything Model (FAM)** for neural surface parameterization (UV unwrapping), got accepted by **NeurIPS-2024**.
 
 
 Research
@@ -382,6 +382,12 @@ Selected Publications
 </table>
 
 
+Services
+======
+
+**Conference Reviewer**: NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, IJCAI, CVM, VCIP, etc.
+
+**Journal Reviewer**: TIP, TVCG, TCSVT, TITS, JSTARS, IEEE/CAA Journal of Automatica Sinica, Scientific Reports, Multimedia Systems, The Visual Computer, Journal of Electronic Imaging, Virtual Reality & Intelligent Hardware, etc.
 
 <p></p>
 
