@@ -37,6 +37,15 @@ I am particularly interested in ***Neuralized Geometry Processing***, i.e., (1) 
 My current research concentrates on ***3D Generative Models*** and ***AI for Games***.
 
 
+
+Services
+======
+
+Conference Reviewer: NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, IJCAI, CVM, VCIP, etc.
+
+Journal Reviewer: TIP, TVCG, TCSVT, TITS, JSTARS, IEEE/CAA Journal of Automatica Sinica, Scientific Reports, Multimedia Systems, The Visual Computer, Journal of Electronic Imaging, Virtual Reality & Intelligent Hardware, etc.
+
+
 Selected Publications
 ======
 
@@ -382,12 +391,7 @@ Selected Publications
 </table>
 
 
-Services
-======
 
-**Conference Reviewer**: NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, IJCAI, CVM, VCIP, etc.
-
-**Journal Reviewer**: TIP, TVCG, TCSVT, TITS, JSTARS, IEEE/CAA Journal of Automatica Sinica, Scientific Reports, Multimedia Systems, The Visual Computer, Journal of Electronic Imaging, Virtual Reality & Intelligent Hardware, etc.
 
 <p></p>
 
