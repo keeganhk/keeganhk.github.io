@@ -60,8 +60,8 @@ Selected Publications
         <img src="images2/Human-DAD_Pre-Print.png" height="80">
       </td>
       <td style="border: none;" width="75%" valign="middle">
-        <a href="https://openreview.net/pdf?id=rWIrdAo2xC">
-          <papertitle><font size="3">Generalizable Monocular 3D Human Rendering via Direct Gaussian Attribute Diffusion</font></papertitle>
+        <a href="https://arxiv.org/abs/2501.15008">
+          <papertitle><font size="3">HuGDiffusion: Generalizable Single-Image Human Rendering via 3D Gaussian Diffusion</font></papertitle>
         </a>
         <br>
         <font size="3">Yingzhi Tang, <strong>Qijian Zhang</strong>, Junhui Hou</font>
