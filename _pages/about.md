@@ -117,7 +117,7 @@ Selected Publications
   
     
     <tr>
-      <td style="border: 1.5px dashed #999;" width="25%">
+      <td style="border: outset 3px #eee; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);" width="25%">
         <img src="images/FAM.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
