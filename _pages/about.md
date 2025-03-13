@@ -71,7 +71,7 @@ Selected Publications
     </tr>
 
 
-    <tr style="height: 20px; background: transparent; border: none;">
+    <tr style="height: 15px; background: transparent; border: none;">
       <td colspan="2" style="border: none; padding: 0;"></td>
     </tr>
     
@@ -92,7 +92,7 @@ Selected Publications
     </tr>
 
 
-    <tr style="height: 20px; background: transparent; border: none;">
+    <tr style="height: 15px; background: transparent; border: none;">
       <td colspan="2" style="border: none; padding: 0;"></td>
     </tr>
 
@@ -142,7 +142,7 @@ Selected Publications
     </tr>
 
 
-    <tr style="height: 20px; background: transparent; border: none;">
+    <tr style="height: 15px; background: transparent; border: none;">
       <td colspan="2" style="border: none; padding: 0;"></td>
     </tr>
     
@@ -163,7 +163,7 @@ Selected Publications
     </tr>
 
 
-    <tr style="height: 20px; background: transparent; border: none;">
+    <tr style="height: 15px; background: transparent; border: none;">
       <td colspan="2" style="border: none; padding: 0;"></td>
     </tr>
 
@@ -184,6 +184,10 @@ Selected Publications
     </tr>
 
 
+    <tr style="height: 15px; background: transparent; border: none;">
+      <td colspan="2" style="border: none; padding: 0;"></td>
+    </tr>
+    
 
     <tr>
       <td style="border: none;" width="25%">
@@ -198,6 +202,11 @@ Selected Publications
         <br>
         <font size="3"><em>TMM</em> 2023</font>
       </td>
+    </tr>
+
+    
+    <tr style="height: 15px; background: transparent; border: none;">
+      <td colspan="2" style="border: none; padding: 0;"></td>
     </tr>
 
     
@@ -216,6 +225,11 @@ Selected Publications
       </td>
     </tr>
 
+    
+    <tr style="height: 15px; background: transparent; border: none;">
+      <td colspan="2" style="border: none; padding: 0;"></td>
+    </tr>
+
 
     <tr>
       <td style="border: none;" width="25%">
@@ -230,6 +244,11 @@ Selected Publications
         <br>
         <font size="3"><em>NeurIPS</em> 2023</font>
       </td>
+    </tr>
+
+
+    <tr style="height: 15px; background: transparent; border: none;">
+      <td colspan="2" style="border: none; padding: 0;"></td>
     </tr>
 
     
@@ -249,6 +268,11 @@ Selected Publications
     </tr>
 
 
+    <tr style="height: 15px; background: transparent; border: none;">
+      <td colspan="2" style="border: none; padding: 0;"></td>
+    </tr>
+
+
     <tr>
       <td style="border: none;" width="25%">
         <img src="images/GLENet.png" height="100">
@@ -265,6 +289,11 @@ Selected Publications
     </tr>
 
 
+    <tr style="height: 15px; background: transparent; border: none;">
+      <td colspan="2" style="border: none; padding: 0;"></td>
+    </tr>
+
+    
     <tr>
       <td style="border: none;" width="25%">
         <img src="images/MOPS-Net.png" height="100">
@@ -281,6 +310,11 @@ Selected Publications
     </tr>
 
 
+    <tr style="height: 15px; background: transparent; border: none;">
+      <td colspan="2" style="border: none; padding: 0;"></td>
+    </tr>
+
+
     <tr>
       <td style="border: none;" width="25%">
         <img src="images/Flattening-Net.png" height="100">
@@ -294,6 +328,11 @@ Selected Publications
         <br>
         <font size="3"><em>TPAMI</em> 2023</font>
       </td>
+    </tr>
+
+
+    <tr style="height: 15px; background: transparent; border: none;">
+      <td colspan="2" style="border: none; padding: 0;"></td>
     </tr>
     
 
@@ -313,6 +352,11 @@ Selected Publications
     </tr>
 
 
+    <tr style="height: 15px; background: transparent; border: none;">
+      <td colspan="2" style="border: none; padding: 0;"></td>
+    </tr>
+
+
     <tr>
       <td style="border: none;" width="25%">
         <img src="images/WarpingGAN.png" height="100">
@@ -326,6 +370,11 @@ Selected Publications
         <br>
         <font size="3"><em>CVPR</em> 2022</font>
       </td>
+    </tr>
+
+
+    <tr style="height: 15px; background: transparent; border: none;">
+      <td colspan="2" style="border: none; padding: 0;"></td>
     </tr>
 
 
@@ -345,6 +394,11 @@ Selected Publications
     </tr>
 
 
+    <tr style="height: 15px; background: transparent; border: none;">
+      <td colspan="2" style="border: none; padding: 0;"></td>
+    </tr>
+
+
     <tr>
       <td style="border: none;" width="25%">
         <img src="images/DAFNet.png" height="100">
@@ -360,6 +414,11 @@ Selected Publications
       </td>
     </tr>
     
+
+    <tr style="height: 15px; background: transparent; border: none;">
+      <td colspan="2" style="border: none; padding: 0;"></td>
+    </tr>
+
 
     <tr>
       <td style="border: none;" width="25%">
