@@ -117,7 +117,7 @@ Selected Publications
   
     
     <tr>
-      <td style="border: 1.5px dashed #999" width="25%">
+      <td style="border: none;" width="25%">
         <img src="images/FAM.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
@@ -133,7 +133,7 @@ Selected Publications
 
 
     <tr>
-      <td style="border: 1.5px dashed #999" width="25%">
+      <td style="border: none;" width="25%">
         <img src="images/SPCV.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
@@ -149,7 +149,7 @@ Selected Publications
 
 
     <tr>
-      <td style="border: 1.5px dashed #999" width="25%">
+      <td style="border: none;" width="25%">
         <img src="images/PointVST.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
