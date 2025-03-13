@@ -56,7 +56,7 @@ Selected Publications
 
 
     <tr>
-      <td style="border: 2px dashed #999;" width="25%">
+      <td style="border: none;" width="25%">
         <img src="images/SuperCarver.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
