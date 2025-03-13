@@ -315,7 +315,7 @@ Selected Publications
         <img src="images2/DAFNet_TIP2021.png">
       </td>
       <td style="border: none;" width="75%" valign="middle">
-        <a href="files/DAFNet_TIP2021.pdf">
+        <a href="https://arxiv.org/abs/2011.13144">
           <papertitle><font size="3">Dense Attention Fluid Network for Salient Object Detection in Optical Remote Sensing Images</font></papertitle>
         </a>
         <br>
@@ -331,7 +331,7 @@ Selected Publications
         <img src="images2/CoADNet_NeurIPS2020.png">
       </td>
       <td style="border: none;" width="75%" valign="middle">
-        <a href="files/CoADNet_NeurIPS2020.pdf">
+        <a href="https://arxiv.org/abs/2011.04887">
           <papertitle><font size="3">CoADNet: Collaborative Aggregation-and-Distribution Networks for Co-Salient Object Detection</font></papertitle>
         </a>
         <br>
@@ -346,49 +346,6 @@ Selected Publications
 </table>
 
 
-
-<hr style="border: 1.0px solid grey;"/>
-
-
-
-<table style="border: none;">
-  <tbody>
-
-
-    <tr>
-      <td style="border: none;" width="25%">
-        <img src="images2/AirportDet_GRSL2018.png" height="80">
-      </td>
-      <td style="border: none;" width="75%" valign="middle">
-        <a href="files/AirportDet_GRSL2018.pdf">
-          <papertitle><font size="3">Airport Extraction via Complementary Saliency Analysis and Saliency-Oriented Active Contour Model</font></papertitle>
-        </a>
-        <br>
-        <font size="3"><strong>Qijian Zhang</strong>, Libao Zhang, Wenqi Shi, Yue Liu</font>
-        <br>
-        <font size="3"><em>GRSL</em> 2018</font>
-      </td>
-    </tr>
-    
-    
-    <tr>
-      <td style="border: none;" width="25%">
-        <img src="images2/AirportDet_ICIP2018.png" height="80">
-      </td>
-      <td style="border: none;" width="75%" valign="middle">
-        <a href="files/AirportDet_ICIP2018.pdf">
-          <papertitle><font size="3">Integrating Sparse Reconstruction Saliency and Target-Aware Active Contour Model for Airport Extraction</font></papertitle>
-        </a>
-        <br>
-        <font size="3"><strong>Qijian Zhang</strong>, Wenqi Shi, Libao Zhang, Yue Liu</font>
-        <br>
-        <font size="3"><em>ICIP</em> 2018</font>
-      </td>
-    </tr>
-
-
-  </tbody>
-</table>
 
 
 
