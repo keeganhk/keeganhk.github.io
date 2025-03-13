@@ -132,8 +132,9 @@ Selected Publications
     </tr>
 
 
-    <br>
-
+    <p> </p>
+    <p> </p>
+    
     
     <tr>
       <td style="border: none;" width="25%">
