@@ -57,6 +57,22 @@ Selected Publications
 
     <tr>
       <td style="border: none;" width="25%">
+        <img src="images/SuperCarver.png" height="80">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="http://arxiv.org/abs/2503.09439">
+          <papertitle><font size="3">SuperCarver: Texture-Consistent 3D Geometry Super-Resolution for High-Fidelity Surface Detail Generation</font></papertitle>
+        </a>
+        <br>
+        <font size="3"><strong>Qijian Zhang</strong>, Xiaozheng Jian, Xuan Zhang, Wenping Wang, Junhui Hou</font>
+        <br>
+        <font size="3"><em>Pre-print</em></font>
+      </td>
+    </tr>
+
+
+    <tr>
+      <td style="border: none;" width="25%">
         <img src="images/HuGDiffusion.png" height="80">
       </td>
       <td style="border: none;" width="75%" valign="middle">
