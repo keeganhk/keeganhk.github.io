@@ -53,7 +53,7 @@ Selected Publications
 
 <table style="border: none;">
   <tbody>
-
+  
 
     <tr>
       <td style="border: none;" width="25%">
@@ -118,7 +118,7 @@ Selected Publications
     
     <tr>
       <td style="border: none;" width="25%">
-        <img src="images/FAM.png" height="200">
+        <img src="images/FAM.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
         <a href="https://arxiv.org/abs/2405.14633">
@@ -132,9 +132,14 @@ Selected Publications
     </tr>
 
 
+    <tr style="height: 25px; background: transparent;">
+      <td colspan="2"></td>
+    </tr>
+
+    
     <tr>
       <td style="border: none;" width="25%">
-        <img src="images/SPCV.png" height="200">
+        <img src="images/SPCV.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
         <a href="https://arxiv.org/abs/2403.01129">
@@ -150,7 +155,7 @@ Selected Publications
 
     <tr>
       <td style="border: none;" width="25%">
-        <img src="images/PointVST.png" height="200">
+        <img src="images/PointVST.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
         <a href="https://arxiv.org/abs/2212.14197">
