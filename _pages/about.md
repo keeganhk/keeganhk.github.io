@@ -56,7 +56,7 @@ Selected Publications
 
 
     <tr>
-      <td style="border: 1px solid #ddd;" width="25%">
+      <td style="border: 2px dashed #999;" width="25%">
         <img src="images/SuperCarver.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
@@ -72,7 +72,7 @@ Selected Publications
 
 
     <tr>
-      <td style="border: none;" width="25%">
+      <td style="border: dotted 2px #ccc;" width="25%">
         <img src="images/HuGDiffusion.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
@@ -88,7 +88,7 @@ Selected Publications
 
     
     <tr>
-      <td style="border: none;" width="25%">
+      <td style="style="border: outset 3px #eee; border-radius: 8px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);" width="25%">
         <img src="images/HaP.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
