@@ -171,7 +171,7 @@ Selected Publications
         <img src="images2/NeuroGF_NeurIPS2023.png" height="80">
       </td>
       <td style="border: none;" width="75%" valign="middle">
-        <a href="files/NeuroGF_NeurIPS2023.pdf">
+        <a href="https://arxiv.org/abs/2306.00658">
           <papertitle><font size="3">NeuroGF: A Neural Representation for Fast Geodesic Distance and Path Queries</font></papertitle>
         </a>
         <br>
@@ -187,7 +187,7 @@ Selected Publications
         <img src="images2/UPIDet_NeurIPS2023.png" height="80">
       </td>
       <td style="border: none;" width="75%" valign="middle">
-        <a href="files/UPIDet_NeurIPS2023.pdf">
+        <a href="https://arxiv.org/abs/2301.09077">
           <papertitle><font size="3">Unleash the Potential of Image Branch for Cross-modal 3D Object Detection</font></papertitle>
         </a>
         <br>
@@ -203,7 +203,7 @@ Selected Publications
         <img src="images2/PointMCD_TMM2023.png" height="80">
       </td>
       <td style="border: none;" width="75%" valign="middle">
-        <a href="files/PointMCD_TMM2023.pdf">
+        <a href="https://arxiv.org/abs/2207.03128">
           <papertitle><font size="3">PointMCD: Boosting Deep Point Cloud Encoders via Multi-view Cross-modal Distillation for 3D Shape Recognition</font></papertitle>
         </a>
         <br>
@@ -219,7 +219,7 @@ Selected Publications
         <img src="images2/GLENet_IJCV2023.png" height="80">
       </td>
       <td style="border: none;" width="75%" valign="middle">
-        <a href="files/GLENet_IJCV2023.pdf">
+        <a href="https://arxiv.org/abs/2207.02466">
           <papertitle><font size="3">GLENet: Boosting 3D Object Detectors with Generative Label Uncertainty Estimation</font></papertitle>
         </a>
         <br>
@@ -251,7 +251,7 @@ Selected Publications
         <img src="images2/Flattening-Net_TPAMI2023.png">
       </td>
       <td style="border: none;" width="75%" valign="middle">
-        <a href="files/Flattening-Net_TPAMI2023.pdf">
+        <a href="https://arxiv.org/abs/2212.08892">
           <papertitle><font size="3">Flattening-Net: Deep Regular 2D Representation for 3D Point Cloud Analysis</font></papertitle>
         </a>
         <br>
@@ -283,7 +283,7 @@ Selected Publications
         <img src="images2/WarpingGAN_CVPR2022.png">
       </td>
       <td style="border: none;" width="75%" valign="middle">
-        <a href="files/WarpingGAN_CVPR2022.pdf">
+        <a href="https://arxiv.org/abs/2203.12917">
           <papertitle><font size="3">WarpingGAN: Warping Multiple Uniform Priors for Adversarial 3D Point Cloud Generation</font></papertitle>
         </a>
         <br>
@@ -299,7 +299,7 @@ Selected Publications
         <img src="images2/IDEA-Net_CVPR2022.png">
       </td>
       <td style="border: none;" width="75%" valign="middle">
-        <a href="files/IDEA-Net_CVPR2022.pdf">
+        <a href="https://arxiv.org/abs/2203.11590">
           <papertitle><font size="3">IDEA-Net: Dynamic 3D Point Cloud Interpolation via Deep Embedding Alignment</font></papertitle>
         </a>
         <br>
