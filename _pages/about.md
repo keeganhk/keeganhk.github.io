@@ -57,7 +57,7 @@ Selected Publications
 
     <tr>
       <td style="border: none;" width="25%">
-        <img src="images/SuperCarver.png" height="80">
+        <img src="images/SuperCarver.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
         <a href="http://arxiv.org/abs/2503.09439">
@@ -73,7 +73,7 @@ Selected Publications
 
     <tr>
       <td style="border: none;" width="25%">
-        <img src="images/HuGDiffusion.png" height="80">
+        <img src="images/HuGDiffusion.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
         <a href="https://arxiv.org/abs/2501.15008">
@@ -89,7 +89,7 @@ Selected Publications
     
     <tr>
       <td style="border: none;" width="25%">
-        <img src="images/HaP.png" height="80">
+        <img src="images/HaP.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
         <a href="https://arxiv.org/abs/2311.02892">
@@ -119,7 +119,7 @@ Selected Publications
     
     <tr>
       <td style="border: none;" width="25%">
-        <img src="images/FAM.png" height="80">
+        <img src="images/FAM.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
         <a href="https://arxiv.org/abs/2405.14633">
@@ -135,7 +135,7 @@ Selected Publications
 
     <tr>
       <td style="border: none;" width="25%">
-        <img src="images/SPCV.png" height="80">
+        <img src="images/SPCV.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
         <a href="https://arxiv.org/abs/2403.01129">
@@ -151,7 +151,7 @@ Selected Publications
 
     <tr>
       <td style="border: none;" width="25%">
-        <img src="images/PointVST.png" height="80">
+        <img src="images/PointVST.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
         <a href="https://arxiv.org/abs/2212.14197">
@@ -168,7 +168,7 @@ Selected Publications
 
     <tr>
       <td style="border: none;" width="25%">
-        <img src="images/Cross-PCC.png" height="80">
+        <img src="images/Cross-PCC.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
         <a href="https://arxiv.org/abs/2212.00564">
@@ -184,7 +184,7 @@ Selected Publications
     
     <tr>
       <td style="border: none;" width="25%">
-        <img src="images/NeuroGF.png" height="80">
+        <img src="images/NeuroGF.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
         <a href="https://arxiv.org/abs/2306.00658">
@@ -200,7 +200,7 @@ Selected Publications
 
     <tr>
       <td style="border: none;" width="25%">
-        <img src="images/UPIDet.png" height="80">
+        <img src="images/UPIDet.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
         <a href="https://arxiv.org/abs/2301.09077">
@@ -216,7 +216,7 @@ Selected Publications
     
     <tr>
       <td style="border: none;" width="25%">
-        <img src="images/PointMCD.png" height="80">
+        <img src="images/PointMCD.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
         <a href="https://arxiv.org/abs/2207.03128">
@@ -232,7 +232,7 @@ Selected Publications
 
     <tr>
       <td style="border: none;" width="25%">
-        <img src="images/GLENet.png" height="80">
+        <img src="images/GLENet.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
         <a href="https://arxiv.org/abs/2207.02466">
@@ -248,7 +248,7 @@ Selected Publications
 
     <tr>
       <td style="border: none;" width="25%">
-        <img src="images/MOPS-Net.png">
+        <img src="images/MOPS-Net.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
         <a href="files/MOPS-Net_TCSVT2023.pdf">
@@ -264,7 +264,7 @@ Selected Publications
 
     <tr>
       <td style="border: none;" width="25%">
-        <img src="images/Flattening-Net.png">
+        <img src="images/Flattening-Net.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
         <a href="https://arxiv.org/abs/2212.08892">
@@ -280,7 +280,7 @@ Selected Publications
 
     <tr>
       <td style="border: none;" width="25%">
-        <img src="images/RegGeoNet.png">
+        <img src="images/RegGeoNet.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
         <a href="files/RegGeoNet_IJCV2022.pdf">
@@ -296,7 +296,7 @@ Selected Publications
 
     <tr>
       <td style="border: none;" width="25%">
-        <img src="images/WarpingGAN.png">
+        <img src="images/WarpingGAN.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
         <a href="https://arxiv.org/abs/2203.12917">
@@ -312,7 +312,7 @@ Selected Publications
 
     <tr>
       <td style="border: none;" width="25%">
-        <img src="images/IDEA-Net.png">
+        <img src="images/IDEA-Net.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
         <a href="https://arxiv.org/abs/2203.11590">
@@ -328,7 +328,7 @@ Selected Publications
 
     <tr>
       <td style="border: none;" width="25%">
-        <img src="images/DAFNet.png">
+        <img src="images/DAFNet.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
         <a href="https://arxiv.org/abs/2011.13144">
@@ -344,7 +344,7 @@ Selected Publications
 
     <tr>
       <td style="border: none;" width="25%">
-        <img src="images/CoADNet.png">
+        <img src="images/CoADNet.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
         <a href="https://arxiv.org/abs/2011.04887">
