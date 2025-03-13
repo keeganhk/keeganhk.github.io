@@ -71,6 +71,11 @@ Selected Publications
     </tr>
 
 
+    <tr style="height: 20px; background: transparent; border: none;">
+      <td colspan="2" style="border: none; padding: 0;"></td>
+    </tr>
+    
+
     <tr>
       <td style="border: none;" width="25%">
         <img src="images/HuGDiffusion.png" height="100">
@@ -84,6 +89,11 @@ Selected Publications
         <br>
         <font size="3"><em>Pre-print</em></font>
       </td>
+    </tr>
+
+
+    <tr style="height: 20px; background: transparent; border: none;">
+      <td colspan="2" style="border: none; padding: 0;"></td>
     </tr>
 
     
@@ -132,7 +142,7 @@ Selected Publications
     </tr>
 
 
-    <tr style="height: 25px; background: transparent; border: none;">
+    <tr style="height: 20px; background: transparent; border: none;">
       <td colspan="2" style="border: none; padding: 0;"></td>
     </tr>
     
@@ -150,6 +160,11 @@ Selected Publications
         <br>
         <font size="3"><em>TPAMI</em> 2024</font>
       </td>
+    </tr>
+
+
+    <tr style="height: 20px; background: transparent; border: none;">
+      <td colspan="2" style="border: none; padding: 0;"></td>
     </tr>
 
 
