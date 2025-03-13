@@ -132,9 +132,7 @@ Selected Publications
     </tr>
 
 
-    <tr style="height: 25px; background: transparent;">
-      <td colspan="2"></td>
-    </tr>
+    <br>
 
     
     <tr>
