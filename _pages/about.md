@@ -21,6 +21,7 @@ News
 * [2023.12] One paper, **PointVST** for self-supervised 3D point cloud backbone pre-training, got accepted by **TVCG**.
 * [2024.06] One paper, **SPCV** for spatio-temporal structurization of dynamic 3D point cloud sequences, got accepted by **TPAMI**.
 * [2024.09] One paper, **Flatten Anything Model (FAM)** for neural surface parameterization (UV unwrapping), got accepted by **NeurIPS-2024**.
+* [2025.03] One paper, **Human as Points (HaP)** for single-image 3D human reconstruction, got accepted by **TPAMI**.
 
 
 Research
@@ -92,27 +93,6 @@ Selected Publications
     </tr>
 
 
-    <tr style="height: 15px; background: transparent; border: none;">
-      <td colspan="2" style="border: none; padding: 0;"></td>
-    </tr>
-
-    
-    <tr>
-      <td style="border: none;" width="25%">
-        <img src="images/HaP.png" height="100">
-      </td>
-      <td style="border: none;" width="75%" valign="middle">
-        <a href="https://arxiv.org/abs/2311.02892">
-          <papertitle><font size="3">Human as Points: Explicit Point-based 3D Human Reconstruction from Single-view RGB Images</font></papertitle>
-        </a>
-        <br>
-        <font size="3">Yingzhi Tang, <strong>Qijian Zhang</strong>, Junhui Hou, Yebin Liu</font>
-        <br>
-        <font size="3"><em>Pre-print</em></font>
-      </td>
-    </tr>
-
-
   </tbody>
 </table>
 
@@ -124,7 +104,28 @@ Selected Publications
 
 <table style="border: none;">
   <tbody>
+
   
+    <tr>
+      <td style="border: none;" width="25%">
+        <img src="images/HaP.png" height="100">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="https://arxiv.org/abs/2311.02892">
+          <papertitle><font size="3">Human as Points: Explicit Point-based 3D Human Reconstruction from Single-view RGB Images</font></papertitle>
+        </a>
+        <br>
+        <font size="3">Yingzhi Tang, <strong>Qijian Zhang</strong>, Junhui Hou, Yebin Liu</font>
+        <br>
+        <font size="3"><em>TPAMI</em> 2025</font>
+      </td>
+    </tr>
+
+
+    <tr style="height: 15px; background: transparent; border: none;">
+      <td colspan="2" style="border: none; padding: 0;"></td>
+    </tr>
+
     
     <tr>
       <td style="border: none;" width="25%">
