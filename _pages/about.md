@@ -44,7 +44,7 @@ Services
 
 * Conference Reviewer: NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, ACM MM, IJCAI, CVM, VCIP, etc.
 
-* Journal Reviewer: TIP, TVCG, TCSVT, TITS, JSTARS, IEEE/CAA Journal of Automatica Sinica, Scientific Reports, Multimedia Systems, The Visual Computer, Journal of Electronic Imaging, Virtual Reality & Intelligent Hardware, etc.
+* Journal Reviewer: TIP, TVCG, TCSVT, TITS, TGRS, JSTARS, IEEE/CAA Journal of Automatica Sinica, Scientific Reports, Multimedia Systems, The Visual Computer, Journal of Electronic Imaging, Virtual Reality & Intelligent Hardware, etc.
 
 
 Selected Publications
