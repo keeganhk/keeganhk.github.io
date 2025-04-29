@@ -55,6 +55,27 @@ Selected Publications
 <table style="border: none;">
   <tbody>
   
+  
+    <tr>
+      <td style="border: none;" width="25%">
+        <img src="images/FlexPara.png" height="100">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="https://arxiv.org/abs/2504.19210">
+          <papertitle><font size="3">FlexPara: Flexible Neural Surface Parameterization</font></papertitle>
+        </a>
+        <br>
+        <font size="3">Yuming Zhao, <strong>Qijian Zhang</strong>, Junhui Hou, Jiazhi Xia, Wenping Wang, Ying He</font>
+        <br>
+        <font size="3"><em>Pre-print</em></font>
+      </td>
+    </tr>
+
+
+    <tr style="height: 15px; background: transparent; border: none;">
+      <td colspan="2" style="border: none; padding: 0;"></td>
+    </tr>
+
 
     <tr>
       <td style="border: none;" width="25%">
