@@ -56,6 +56,22 @@ Selected Publications
 <table style="border: none;">
   <tbody>
   
+
+    <tr>
+      <td style="border: none;" width="25%">
+        <img src="images/JGA-LBD.png" height="100">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="https://openreview.net/pdf/9d1ed4649bef3c455db7686e0408e4b0ba89ceaf.pdf">
+          <papertitle><font size="3">Joint Geometry–Appearance Human Reconstruction in a Unified Latent Space via Bridge Diffusion</font></papertitle>
+        </a>
+        <br>
+        <font size="3">Yingzhi Tang, <strong>Qijian Zhang</strong>, Junhui Hou</font>
+        <br>
+        <font size="3"><em>Pre-print</em></font>
+      </td>
+    </tr>
+
   
     <tr>
       <td style="border: none;" width="25%">
