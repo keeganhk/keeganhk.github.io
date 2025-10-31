@@ -23,6 +23,7 @@ News
 * [2024.09] One paper, **Flatten Anything Model (FAM)** for neural surface parameterization (UV unwrapping), got accepted by **NeurIPS-2024**.
 * [2025.03] One paper, **Human as Points (HaP)** for single-image 3D human reconstruction, got accepted by **TPAMI**.
 * [2025.10] One paper, **HuGDiffusion** for 3D Human Gaussian Diffusion, got accepted by **TVCG**.
+* [2025.10] One paper, **FlexPara**, extending our previous **FAM** to flexible multi-chart surface parameterization, got accepted by **TPAMI**.
 
 
 Research
@@ -72,22 +73,6 @@ Selected Publications
       </td>
     </tr>
 
-  
-    <tr>
-      <td style="border: none;" width="25%">
-        <img src="images/FlexPara.png" height="100">
-      </td>
-      <td style="border: none;" width="75%" valign="middle">
-        <a href="https://arxiv.org/abs/2504.19210">
-          <papertitle><font size="3">FlexPara: Flexible Neural Surface Parameterization</font></papertitle>
-        </a>
-        <br>
-        <font size="3">Yuming Zhao, <strong>Qijian Zhang</strong>, Junhui Hou, Jiazhi Xia, Wenping Wang, Ying He</font>
-        <br>
-        <font size="3"><em>Pre-print</em></font>
-      </td>
-    </tr>
-
 
     <tr style="height: 15px; background: transparent; border: none;">
       <td colspan="2" style="border: none; padding: 0;"></td>
@@ -130,6 +115,27 @@ Selected Publications
 
     <tr>
       <td style="border: none;" width="25%">
+        <img src="images/FlexPara.png" height="100">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="https://arxiv.org/abs/2504.19210">
+          <papertitle><font size="3">FlexPara: Flexible Neural Surface Parameterization</font></papertitle>
+        </a>
+        <br>
+        <font size="3">Yuming Zhao, <strong>Qijian Zhang</strong>, Junhui Hou, Jiazhi Xia, Wenping Wang, Ying He</font>
+        <br>
+        <font size="3"><em>TPAMI</em> 2025</font>
+      </td>
+    </tr>
+
+
+    <tr style="height: 15px; background: transparent; border: none;">
+      <td colspan="2" style="border: none; padding: 0;"></td>
+    </tr>
+
+    
+    <tr>
+      <td style="border: none;" width="25%">
         <img src="images/HuGDiffusion.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
@@ -139,10 +145,15 @@ Selected Publications
         <br>
         <font size="3">Yingzhi Tang, <strong>Qijian Zhang</strong>, Junhui Hou</font>
         <br>
-        <font size="3"><em>TVCG 2025</em></font>
+        <font size="3"><em>TVCG</em> 2025</font>
       </td>
     </tr>
 
+
+    <tr style="height: 15px; background: transparent; border: none;">
+      <td colspan="2" style="border: none; padding: 0;"></td>
+    </tr>
+    
   
     <tr>
       <td style="border: none;" width="25%">
