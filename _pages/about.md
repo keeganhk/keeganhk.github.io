@@ -34,11 +34,12 @@ Research
 
 My current work focuses on the development and application of cutting-edge 3D AIGC techniques in real-world game industry, advancing the efficiency and quality of the actual 3D asset production pipelines. 
 
-* ***Game-Ready & High-Fidelity 3D Generation:***
+* ***Game-Ready & High-Fidelity 3D Generation***
     * ***Geometry Super-Resolution.*** We've made remarkable progress in generating ultra-realistic and physically-consistent mesh surface details. Our earlier explorations are presented in [SuperCarver](http://arxiv.org/abs/2503.09439).
     * ***Texture Super-Resolution and Repainting.***
 
-* ***Mesh UV Unwrapping:*** We are exploring unsupervised neural surface parameterization frameworks to facilitate automated mesh UV unwrapping. Our earlier explorations include [FAM](https://arxiv.org/abs/2405.14633), [FlexPara](https://arxiv.org/abs/2504.19210).
+* ***Mesh UV Unwrapping***
+    * We are exploring unsupervised neural surface parameterization frameworks to facilitate automated mesh UV unwrapping. Our earlier explorations include [FAM](https://arxiv.org/abs/2405.14633), [FlexPara](https://arxiv.org/abs/2504.19210).
 
 ## Ph.D. Research Topics
 
