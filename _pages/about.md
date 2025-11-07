@@ -45,9 +45,9 @@ My current research concentrates on ***3D Generative Models*** and ***AI for Gam
 Services
 ======
 
-* Conference Reviewer: NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, ACM MM, IJCAI, CVM, VCIP, etc.
+* Conference Reviewer: NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, ACM MM, IJCAI, CVM, etc.
 
-* Journal Reviewer: TIP, TVCG, TCSVT, TITS, TGRS, JSTARS, IEEE/CAA Journal of Automatica Sinica, Scientific Reports, Multimedia Systems, The Visual Computer, Journal of Electronic Imaging, Virtual Reality & Intelligent Hardware, etc.
+* Journal Reviewer: TIP, TVCG, TCSVT, TITS, TGRS, JSTARS, etc.
 
 
 Selected Publications
