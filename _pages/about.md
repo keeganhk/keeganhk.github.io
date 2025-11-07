@@ -36,7 +36,7 @@ My current work focuses on the development and application of cutting-edge 3D AI
 
 * ***Game-Ready & High-Fidelity 3D Generation:***
     * ***Geometry Super-Resolution.*** We've made remarkable progress in generating ultra-realistic and physically-consistent mesh surface details. Our earlier explorations are presented in [SuperCarver](http://arxiv.org/abs/2503.09439).
-    * ***Texture Super-Resolution.***
+    * ***Texture Super-Resolution and Repainting.***
 
 * ***Mesh UV Unwrapping:*** We are exploring unsupervised neural surface parameterization frameworks to facilitate automated mesh UV unwrapping. Our earlier explorations include [FAM](https://arxiv.org/abs/2405.14633), [FlexPara](https://arxiv.org/abs/2504.19210).
 
