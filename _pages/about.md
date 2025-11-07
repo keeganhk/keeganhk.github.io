@@ -42,7 +42,7 @@ My current work focuses on the development and application of cutting-edge 3D AI
 
 ## Ph.D. Research Topics
 
-I have broad interests in developing deep learning models and neuralized optimization algorithms to solve various geometry, vision, and graphics problems. My Ph.D. research falls into the general scopes of ***3D Spatial Intelligence*** and ***2D-3D Cross-Modal Learning***, including the following specific topics: 
+I have broad interests in developing deep learning models and neural optimization algorithms to solve various geometry, vision, and graphics problems. My Ph.D. research falls into the general scopes of ***3D Spatial Intelligence*** and ***2D-3D Cross-Modal Learning***, including the following specific topics: 
 
 * **Geometry Modeling and Surface Computing:** Regular Representation ([Flattening-Net](https://arxiv.org/abs/2212.08892), [RegGeoNet](https://link.springer.com/article/10.1007/s11263-022-01682-w), [SPCV](https://arxiv.org/abs/2403.01129)); UV Parameterization ([FAM](https://arxiv.org/abs/2405.14633)); Neural Geodesics ([NeuroGF](https://arxiv.org/abs/2306.00658)).
 
