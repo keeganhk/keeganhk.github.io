@@ -13,7 +13,7 @@ About Me
 ======
 I obtained my Ph.D. degree from City University of Hong Kong (2020~2024) under the supervision of Prof. [Junhui Hou](https://sites.google.com/site/junhuihoushomepage/), during which I was also fortunate to work closely with Prof. [Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping) and Prof. [Ying He](https://personal.ntu.edu.sg/yhe/). Previously, I worked as a short-term research intern guided by Prof. [Runmin Cong](https://rmcong.github.io/). I received my B.Sc. degree from Beijing Normal University in 2019.
 
-Since August 2024, I joined Tencent as a senior researcher, leading an effort to 3D Generative Models and AI for Games.
+Since August 2024, I joined Tencent as a senior researcher, leading an effort to ***3D Generative Models*** and ***AI for Games***.
 
 News
 ======
@@ -29,17 +29,28 @@ News
 
 Research
 ======
-The latest trend in the artificial intelligence era continues to blur the boundaries of different research domains and data modalities. In general, I have broad interests in developing deep learning models to solve various geometry, vision, and graphics problems.
 
-My research during Ph.D. mainly includes the following tasks and topics:
-* Geometric (Mesh, Point Cloud, Implicit Field) Computing and Modeling; 
-* Neural 3D Representation, Rendering, Reconstruction, and Generation;
-* Multi-Modal (2D-3D, Visual-Geometric) Learning: Pre-training, Alignment, Fusion, Distillation.
+## Recent Focuses & Ongoing Explorations
 
-I am particularly interested in ***Neuralized Geometry Processing***, i.e., (1) (at the data level) exploring neural representations for geometric data; (2) (at the model level) replacing conventional geometric computation/optimization algorithms with more powerful neural architectures.
+My current work focuses on the development and application of cutting-edge 3D AIGC techniques in real-world game industry, advancing the efficiency and quality of the actual 3D asset production pipelines. 
 
-My current research concentrates on ***3D Generative Models*** and ***AI for Games***.
+* ***Game-Ready & High-Fidelity 3D Generation:***
+    * ***Geometry Super-Resolution.*** We've made remarkable progress in generating ultra-realistic and physically-consistent mesh surface details. Our earlier explorations are presented in [SuperCarver](http://arxiv.org/abs/2503.09439).
+    * ***Texture Super-Resolution.***
 
+* ***Mesh UV Unwrapping:*** We are exploring unsupervised neural surface parameterization frameworks to facilitate automated mesh UV unwrapping. Our earlier explorations include [FAM](https://arxiv.org/abs/2405.14633), [FlexPara](https://arxiv.org/abs/2504.19210).
+
+## Ph.D. Research Topics
+
+I have broad interests in developing deep learning models and neuralized optimization algorithms to solve various geometry, vision, and graphics problems. My Ph.D. research falls into the general scopes of ***3D Spatial Intelligence*** and ***2D-3D Cross-Modal Learning***, including the following specific topics: 
+
+* **Geometry Modeling and Surface Computing:** Regular Representation ([Flattening-Net](https://arxiv.org/abs/2212.08892), [RegGeoNet](https://link.springer.com/article/10.1007/s11263-022-01682-w), [SPCV](https://arxiv.org/abs/2403.01129)); UV Parameterization ([FAM](https://arxiv.org/abs/2405.14633)); Neural Geodesics ([NeuroGF](https://arxiv.org/abs/2306.00658)).
+
+* **Point Cloud Processing and 3D Reconstruction:** Sampling ([MOPS-Net](https://ieeexplore.ieee.org/document/10108059/)); Generation ([WarpingGAN](https://arxiv.org/abs/2203.12917)); Completion ([Cross-PCC](https://arxiv.org/abs/2212.00564)); Sequence Interpolation ([IDEA-Net](https://arxiv.org/abs/2203.11590)).
+
+* **Visual-Geometric Joint Learning:** Image-to-3D Distillation ([PointMCD](https://arxiv.org/abs/2207.03128)); Image-Assisted 3D Pre-training ([PointVST](https://arxiv.org/abs/2212.14197)); 2D&3D Perception ([CoADNet](https://arxiv.org/abs/2011.04887), [DAFNet](https://arxiv.org/abs/2011.13144), [GLENet](https://arxiv.org/abs/2207.02466), [UPIDet](https://arxiv.org/abs/2301.09077)).
+  
+* ***3D Digital Human***: Reconstruction & Novel View Synthesis ([HaP](https://arxiv.org/abs/2311.02892), [HuGDiffusion](https://arxiv.org/abs/2501.15008), [JGA-LBD](https://openreview.net/pdf/9d1ed4649bef3c455db7686e0408e4b0ba89ceaf.pdf)).
 
 
 Services
