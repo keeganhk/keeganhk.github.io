@@ -11,9 +11,9 @@ redirect_from:
 
 About Me
 ======
-I obtained my Ph.D. degree from City University of Hong Kong (2020~2024) under the supervision of Prof. [Junhui Hou](https://sites.google.com/site/junhuihoushomepage/), during which I was also fortunate to work closely with Prof. [Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping) and Prof. [Ying He](https://personal.ntu.edu.sg/yhe/). Previously, I worked as a short-term research intern guided by Prof. [Runmin Cong](https://rmcong.github.io/). I received my B.Sc. degree from Beijing Normal University in 2019.
+* I obtained my Ph.D. degree from City University of Hong Kong (2020~2024) under the supervision of Prof. [Junhui Hou](https://sites.google.com/site/junhuihoushomepage/), during which I was also fortunate to work closely with Prof. [Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping) and Prof. [Ying He](https://personal.ntu.edu.sg/yhe/). Previously, I worked as a short-term research intern guided by Prof. [Runmin Cong](https://rmcong.github.io/). I received my B.Sc. degree from Beijing Normal University in 2019.
 
-Since August 2024, I joined Tencent as a senior researcher, leading an effort to ***3D Generative Models*** and ***AI for Games***.
+* Since August 2024, I joined Tencent as a senior researcher, leading an effort to ***3D Generative Models*** and ***AI for Games***.
 
 News
 ======
@@ -30,7 +30,7 @@ News
 Research
 ======
 
-***Recent Focuses & Ongoing Explorations***
+### Recent Focuses & Ongoing Explorations
 
 My current work focuses on the development and application of cutting-edge 3D AIGC techniques in real-world game industry, advancing the efficiency and quality of the actual 3D asset production pipelines. 
 
@@ -41,7 +41,7 @@ My current work focuses on the development and application of cutting-edge 3D AI
 * ***Mesh UV Unwrapping***
     * We are exploring unsupervised neural surface parameterization frameworks to facilitate automated mesh UV unwrapping. Our earlier explorations include [FAM](https://arxiv.org/abs/2405.14633), [FlexPara](https://arxiv.org/abs/2504.19210).
 
-***Ph.D. Research Topics***
+### Ph.D. Research Topics
 
 I have broad interests in developing deep learning models and neural optimization algorithms to solve various geometry, vision, and graphics problems. My Ph.D. research falls into the general scopes of ***3D Spatial Intelligence*** and ***2D-3D Cross-Modal Learning***, including the following specific topics: 
 
