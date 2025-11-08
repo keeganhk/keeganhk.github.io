@@ -9,14 +9,12 @@ redirect_from:
 ---
 
 
-About Me
-======
+# About Me
 * I obtained my Ph.D. degree from City University of Hong Kong (2020~2024) under the supervision of Prof. [Junhui Hou](https://sites.google.com/site/junhuihoushomepage/), during which I was also fortunate to work closely with Prof. [Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping) and Prof. [Ying He](https://personal.ntu.edu.sg/yhe/). Previously, I worked as a short-term research intern guided by Prof. [Runmin Cong](https://rmcong.github.io/). I received my B.Sc. degree from Beijing Normal University in 2019.
 
 * Since August 2024, I joined Tencent as a senior researcher, leading an effort to ***3D Generative Models*** and ***AI for Games***.
 
-News
-======
+# News
 * [2023.09] Two papers, **NeuroGF** for geodesics learning, **UPIDet** for cross-modal 3D detection, got accepted by **NeurIPS-2023**.
 * [2023.12] One paper, **Cross-PCC** for image-assisted 3D point cloud completion, got accepted by **TMM**.
 * [2023.12] One paper, **PointVST** for self-supervised 3D point cloud backbone pre-training, got accepted by **TVCG**.
@@ -27,23 +25,10 @@ News
 * [2025.10] One paper, **FlexPara** for flexible multi-chart surface parameterization, got accepted by **TPAMI**.
 
 
-Research
-======
+# Research
 
-### Recent Focuses & Ongoing Explorations
 
-My current work focuses on the development and application of cutting-edge 3D AIGC techniques in real-world game industry, advancing the efficiency and quality of the actual 3D asset production pipelines. 
-
-* ***Game-Ready & High-Fidelity 3D Generation***
-    * ***Geometry Super-Resolution.*** We've made remarkable progress in generating ultra-realistic and physically-consistent mesh surface details. Our earlier explorations are presented in [SuperCarver](http://arxiv.org/abs/2503.09439).
-    * ***Texture Super-Resolution and Repainting.***
-
-* ***Mesh UV Unwrapping***
-    * We are exploring unsupervised neural surface parameterization frameworks to facilitate automated mesh UV unwrapping. Our earlier explorations include [FAM](https://arxiv.org/abs/2405.14633), [FlexPara](https://arxiv.org/abs/2504.19210).
-
-### Ph.D. Research Topics
-
-I have broad interests in developing deep learning models and neural optimization algorithms to solve various geometry, vision, and graphics problems. My Ph.D. research falls into the general scopes of ***3D Spatial Intelligence*** and ***2D-3D Cross-Modal Learning***, including the following specific topics: 
+**Ph.D. Research Topics:** I have broad interests in developing deep learning models and neural optimization algorithms to solve various geometry, vision, and graphics problems. My Ph.D. research falls into the general scopes of ***3D Spatial Intelligence*** and ***2D-3D Cross-Modal Learning***, including the following specific topics: 
 
 * **Geometry Modeling and Surface Computing:** Regular Representation ([Flattening-Net](https://arxiv.org/abs/2212.08892), [RegGeoNet](https://link.springer.com/article/10.1007/s11263-022-01682-w), [SPCV](https://arxiv.org/abs/2403.01129)); UV Parameterization ([FAM](https://arxiv.org/abs/2405.14633)); Neural Geodesics ([NeuroGF](https://arxiv.org/abs/2306.00658)).
 
@@ -52,6 +37,23 @@ I have broad interests in developing deep learning models and neural optimizatio
 * **Visual-Geometric Joint Learning:** Image-to-3D Distillation ([PointMCD](https://arxiv.org/abs/2207.03128)); Image-Assisted 3D Pre-training ([PointVST](https://arxiv.org/abs/2212.14197)); 2D&3D Perception ([CoADNet](https://arxiv.org/abs/2011.04887), [DAFNet](https://arxiv.org/abs/2011.13144), [GLENet](https://arxiv.org/abs/2207.02466), [UPIDet](https://arxiv.org/abs/2301.09077)).
   
 * **3D Digital Human:** Reconstruction & Novel View Synthesis ([HaP](https://arxiv.org/abs/2311.02892), [HuGDiffusion](https://arxiv.org/abs/2501.15008), [JGA-LBD](https://openreview.net/pdf/9d1ed4649bef3c455db7686e0408e4b0ba89ceaf.pdf)).
+
+
+
+**Recent Focuses & Ongoing Explorations**
+
+My current work focuses on the development and application of cutting-edge 3D AIGC techniques in real-world game industry, advancing the efficiency and quality of the actual 3D asset production pipelines. 
+
+* Game-Ready & High-Fidelity 3D Generation
+
+
+    * ***Geometry Super-Resolution.*** We've made remarkable progress in generating ultra-realistic and physically-consistent mesh surface details. Our earlier explorations are presented in [SuperCarver](http://arxiv.org/abs/2503.09439).
+    * ***Texture Super-Resolution and Repainting.***
+
+* ***Mesh UV Unwrapping***
+    * We are exploring unsupervised neural surface parameterization frameworks to facilitate automated mesh UV unwrapping. Our earlier explorations include [FAM](https://arxiv.org/abs/2405.14633), [FlexPara](https://arxiv.org/abs/2504.19210).
+
+
 
 
 Services
