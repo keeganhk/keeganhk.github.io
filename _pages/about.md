@@ -30,7 +30,7 @@ News
 Research
 ======
 
-## Recent Focuses & Ongoing Explorations
+***Recent Focuses & Ongoing Explorations***
 
 My current work focuses on the development and application of cutting-edge 3D AIGC techniques in real-world game industry, advancing the efficiency and quality of the actual 3D asset production pipelines. 
 
@@ -41,7 +41,7 @@ My current work focuses on the development and application of cutting-edge 3D AI
 * ***Mesh UV Unwrapping***
     * We are exploring unsupervised neural surface parameterization frameworks to facilitate automated mesh UV unwrapping. Our earlier explorations include [FAM](https://arxiv.org/abs/2405.14633), [FlexPara](https://arxiv.org/abs/2504.19210).
 
-## Ph.D. Research Topics
+***Ph.D. Research Topics***
 
 I have broad interests in developing deep learning models and neural optimization algorithms to solve various geometry, vision, and graphics problems. My Ph.D. research falls into the general scopes of ***3D Spatial Intelligence*** and ***2D-3D Cross-Modal Learning***, including the following specific topics: 
 
@@ -51,7 +51,7 @@ I have broad interests in developing deep learning models and neural optimizatio
 
 * **Visual-Geometric Joint Learning:** Image-to-3D Distillation ([PointMCD](https://arxiv.org/abs/2207.03128)); Image-Assisted 3D Pre-training ([PointVST](https://arxiv.org/abs/2212.14197)); 2D&3D Perception ([CoADNet](https://arxiv.org/abs/2011.04887), [DAFNet](https://arxiv.org/abs/2011.13144), [GLENet](https://arxiv.org/abs/2207.02466), [UPIDet](https://arxiv.org/abs/2301.09077)).
   
-* ***3D Digital Human***: Reconstruction & Novel View Synthesis ([HaP](https://arxiv.org/abs/2311.02892), [HuGDiffusion](https://arxiv.org/abs/2501.15008), [JGA-LBD](https://openreview.net/pdf/9d1ed4649bef3c455db7686e0408e4b0ba89ceaf.pdf)).
+* **3D Digital Human:** Reconstruction & Novel View Synthesis ([HaP](https://arxiv.org/abs/2311.02892), [HuGDiffusion](https://arxiv.org/abs/2501.15008), [JGA-LBD](https://openreview.net/pdf/9d1ed4649bef3c455db7686e0408e4b0ba89ceaf.pdf)).
 
 
 Services
