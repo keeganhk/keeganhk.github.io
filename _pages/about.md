@@ -23,7 +23,7 @@ News
 * [2024.06] One paper, **SPCV** for spatio-temporal structurization of dynamic 3D point cloud sequences, got accepted by **TPAMI**.
 * [2024.09] One paper, **Flatten Anything Model** for surface parameterization (UV unwrapping), got accepted by **NeurIPS-2024**.
 * [2025.03] One paper, **Human as Points** for single-image 3D human reconstruction, got accepted by **TPAMI**.
-* [2025.10] One paper, **HuGDiffusion** for 3D Human Gaussian Diffusion, got accepted by **TVCG**.
+* [2025.10] One paper, **HuGDiffusion** for 3D human Gaussian diffusion, got accepted by **TVCG**.
 * [2025.10] One paper, **FlexPara** for flexible multi-chart surface parameterization, got accepted by **TPAMI**.
 
 
