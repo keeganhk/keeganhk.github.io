@@ -32,7 +32,7 @@ redirect_from:
 
 ### ***Ph.D. Research Topics***
 
-In general, I have broad interests in developing deep learning models and neural optimization algorithms to solve various geometry, vision, and graphics problems. My Ph.D. research primarily falls within the areas of  ***3D Spatial Intelligence*** and ***2D-3D Cross-Modal Learning***, including the following specific topics and projects: 
+I have broad interests in developing deep learning models and neural optimization algorithms to solve various geometry, vision, and graphics problems. My Ph.D. research primarily falls within the areas of  ***3D Spatial Intelligence*** and ***2D-3D Cross-Modal Learning***, including the following specific topics and projects: 
 
 * **Geometry Modeling and Surface Computing:** 
     * Regular Representation ([Flattening-Net](https://arxiv.org/abs/2212.08892), [RegGeoNet](https://link.springer.com/article/10.1007/s11263-022-01682-w))
