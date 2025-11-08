@@ -57,7 +57,7 @@ I have broad interests in developing deep learning models and neural optimizatio
 
 ### ***Current Research Focuses***
 
-3D generative models have achieved impressive advances in recent times; however, their actual applicability in professional asset creation workflows still remains insufficient. I am currently concentrating my research efforts on ***Game-Ready 3D AIGC*** and its integration into the asset production pipelines of real-world game industry. Ongoing R&D projects include: 
+3D generative models have achieved impressive advances in recent times; however, their actual applicability in professional asset creation workflows still remains insufficient. I am currently concentrating my research efforts on ***[Game-Ready] 3D AIGC*** and its integration into the asset production pipelines of real-world game industry. Ongoing R&D projects include: 
 
 * **Ultra-Realistic and Physically-Consistent Mesh Detail Generation.** (See our earlier results in [SuperCarver](http://arxiv.org/abs/2503.09439).)
 * **Mesh Texture Super-Resolution and Controllable Repainting.**
