@@ -30,6 +30,16 @@ redirect_from:
 
 # Research
 
+
+### ***Current Research Focuses***
+
+3D generative models have achieved impressive advances in recent times; however, their actual applicability in professional asset creation workflows still remains insufficient. I am currently concentrating my research efforts on ***[Game-Ready] 3D AIGC*** and its integration into the asset production pipelines of real-world game industry. Ongoing R&D projects include: 
+
+* **Ultra-Realistic and Physically-Consistent Mesh Detail Generation.** (See our earlier results in [SuperCarver](http://arxiv.org/abs/2503.09439).)
+* **Mesh Texture Super-Resolution and Controllable Repainting.**
+* **Practical Mesh UV Unwrapping.** (See our earlier results in [FAM](https://arxiv.org/abs/2405.14633), [FlexPara](https://arxiv.org/abs/2504.19210).)
+
+
 ### ***Ph.D. Research Topics***
 
 I have broad interests in developing deep learning models and neural optimization algorithms to solve various geometry, vision, and graphics problems. My Ph.D. research primarily falls within the areas of  ***3D Spatial Intelligence*** and ***2D-3D Cross-Modal Learning***, including the following specific topics and projects: 
@@ -52,21 +62,6 @@ I have broad interests in developing deep learning models and neural optimizatio
     * 2D&3D Perception ([CoADNet](https://arxiv.org/abs/2011.04887), [DAFNet](https://arxiv.org/abs/2011.13144), [GLENet](https://arxiv.org/abs/2207.02466), [UPIDet](https://arxiv.org/abs/2301.09077))
   
 * **3D Digital Human:** Reconstruction & Novel View Synthesis ([HaP](https://arxiv.org/abs/2311.02892), [HuGDiffusion](https://arxiv.org/abs/2501.15008))
-
-
-
-### ***Current Research Focuses***
-
-3D generative models have achieved impressive advances in recent times; however, their actual applicability in professional asset creation workflows still remains insufficient. I am currently concentrating my research efforts on ***[Game-Ready] 3D AIGC*** and its integration into the asset production pipelines of real-world game industry. Ongoing R&D projects include: 
-
-* **Ultra-Realistic and Physically-Consistent Mesh Detail Generation.** (See our earlier results in [SuperCarver](http://arxiv.org/abs/2503.09439).)
-* **Mesh Texture Super-Resolution and Controllable Repainting.**
-* **Practical Mesh UV Unwrapping.** (See our earlier results in [FAM](https://arxiv.org/abs/2405.14633), [FlexPara](https://arxiv.org/abs/2504.19210).)
-
-
-
-
-
 
 
 # Services
