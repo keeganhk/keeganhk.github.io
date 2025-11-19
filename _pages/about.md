@@ -46,7 +46,7 @@ I have broad interests in developing deep learning models and neural optimizatio
 
 * **Geometry Modeling and Surface Computing:** 
     * Regular Representation ([Flattening-Net](https://arxiv.org/abs/2212.08892), [RegGeoNet](https://link.springer.com/article/10.1007/s11263-022-01682-w))
-    * Spatio-Temporal Structurization ([SPCV](https://arxiv.org/abs/2403.01129))
+    * 4D Point Cloud Video Spatio-Temporal Structurization ([SPCV](https://arxiv.org/abs/2403.01129))
     * Mesh Parameterization ([FAM](https://arxiv.org/abs/2405.14633))
     * Neural Geodesics ([NeuroGF](https://arxiv.org/abs/2306.00658))
 
@@ -54,7 +54,7 @@ I have broad interests in developing deep learning models and neural optimizatio
     * Sampling ([MOPS-Net](https://ieeexplore.ieee.org/document/10108059/))
     * Completion ([Cross-PCC](https://arxiv.org/abs/2212.00564))
     * Generation ([WarpingGAN](https://arxiv.org/abs/2203.12917))
-    * 4D Interpolation ([IDEA-Net](https://arxiv.org/abs/2203.11590))
+    * 4D Point Cloud Video Interpolation ([IDEA-Net](https://arxiv.org/abs/2203.11590))
 
 * **Visual-Geometric Joint Learning:** 
     * Image-to-3D Distillation ([PointMCD](https://arxiv.org/abs/2207.03128))
