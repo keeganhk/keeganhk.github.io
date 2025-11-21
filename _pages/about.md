@@ -61,7 +61,8 @@ I have broad interests in developing deep learning models and neural optimizatio
     * Image-Assisted 3D Pre-training ([PointVST](https://arxiv.org/abs/2212.14197))
     * 2D&3D Perception ([CoADNet](https://arxiv.org/abs/2011.04887), [DAFNet](https://arxiv.org/abs/2011.13144), [GLENet](https://arxiv.org/abs/2207.02466), [UPIDet](https://arxiv.org/abs/2301.09077))
   
-* **3D Digital Human:** Reconstruction & Novel View Synthesis ([HaP](https://arxiv.org/abs/2311.02892), [HuGDiffusion](https://arxiv.org/abs/2501.15008))
+* **3D Digital Human:**
+    * Reconstruction & Novel View Synthesis ([HaP](https://arxiv.org/abs/2311.02892), [HuGDiffusion](https://arxiv.org/abs/2501.15008))
 
 
 # Services
