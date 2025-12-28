@@ -30,9 +30,9 @@ redirect_from:
 
 # Research
 
-I have broad interests in developing deep learning models and neural optimization algorithms to solve various geometry, vision, and graphics problems. 
+In general, I have broad interests in developing deep learning models and neural optimization algorithms to solve various geometry, vision, and graphics problems. 
 
-My Ph.D. research primarily focused on the general scope of ***3D Spatial Intelligence***, encompassing the following specific topics and projects: 
+My Ph.D. research primarily focused on the scope of ***3D Spatial Intelligence***, encompassing the following specific topics: 
 
 * **Geometry Modeling and Surface Computing:** Regular Representation ([Flattening-Net](https://arxiv.org/abs/2212.08892), [RegGeoNet](https://link.springer.com/article/10.1007/s11263-022-01682-w)); Mesh Parameterization ([FAM](https://arxiv.org/abs/2405.14633)); 4D Spatio-Temporal Structurization ([SPCV](https://arxiv.org/abs/2403.01129)); Neural Geodesics ([NeuroGF](https://arxiv.org/abs/2306.00658)).
 
