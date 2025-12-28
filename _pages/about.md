@@ -30,9 +30,9 @@ redirect_from:
 
 # Research
 
-In general, I have broad interests in developing deep learning models and neural optimization algorithms to solve various geometry, vision, and graphics problems. 
+I have broad interests in developing deep learning models and neural optimization algorithms to solve various geometry, vision, and graphics problems. 
 
-My Ph.D. research primarily falls within the scope of ***3D Spatial Intelligence***, including the following specific topics and projects: 
+My Ph.D. research primarily focused on the general scope of ***3D Spatial Intelligence***, encompassing the following specific topics and projects: 
 
 * **Geometry Modeling and Surface Computing:** Regular Representation ([Flattening-Net](https://arxiv.org/abs/2212.08892), [RegGeoNet](https://link.springer.com/article/10.1007/s11263-022-01682-w)); Mesh Parameterization ([FAM](https://arxiv.org/abs/2405.14633)); 4D Spatio-Temporal Structurization ([SPCV](https://arxiv.org/abs/2403.01129)); Neural Geodesics ([NeuroGF](https://arxiv.org/abs/2306.00658)).
 
@@ -43,12 +43,12 @@ My Ph.D. research primarily falls within the scope of ***3D Spatial Intelligence
 * **Digital Human:** 3D Human Reconstruction ([HaP](https://arxiv.org/abs/2311.02892)); Human-Centered 3D Gaussian Splatting ([HuGDiffusion](https://arxiv.org/abs/2501.15008)).
 
 
-### ***Current Focuses***
+### ***Current Focus***
 
-3D generative models have achieved impressive advances in recent times; however, their actual applicability in professional asset creation workflows still remains insufficient. I am currently concentrating my research efforts on ***Production-Ready 3D AIGC*** and its integration into the asset production pipelines of real-world game industry. Ongoing R&D projects include: 
+Despite recent breakthroughs in 3D generative models, their applicability in professional asset creation workflows still remains limited. I am currently concentrating my research efforts on ***Production-Ready 3D AIGC*** and its seamlessly integration into real-world game industry pipelines. My ongoing R&D projects include:
 
-* **Ultra-Realistic and Physically-Consistent Mesh Detail Generation.** (See our earlier results in [SuperCarver](http://arxiv.org/abs/2503.09439).)
-* **Mesh Texture Super-Resolution and Controllable Repainting.**
+* **Ultra-Realistic Mesh Geometry Detailization.** (See our earlier results in [SuperCarver](http://arxiv.org/abs/2503.09439).)
+* **Controllable Mesh Texture Repainting and Editing.**
 * **Practical Mesh UV Unwrapping.** (See our earlier results in [FAM](https://arxiv.org/abs/2405.14633), [FlexPara](https://arxiv.org/abs/2504.19210).)
 
 
