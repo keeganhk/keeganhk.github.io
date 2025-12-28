@@ -30,39 +30,26 @@ redirect_from:
 
 # Research
 
+In general, I have broad interests in developing deep learning models and neural optimization algorithms to solve various geometry, vision, and graphics problems. 
 
-### ***Current Research Focuses***
+My Ph.D. research primarily falls within the scope of ***3D Spatial Intelligence***, including the following specific topics and projects: 
 
-3D generative models have achieved impressive advances in recent times; however, their actual applicability in professional asset creation workflows still remains insufficient. I am currently concentrating my research efforts on ***[Game-Ready] 3D AIGC*** and its integration into the asset production pipelines of real-world game industry. Ongoing R&D projects include: 
+* **Geometry Modeling and Surface Computing:** Regular Representation ([Flattening-Net](https://arxiv.org/abs/2212.08892), [RegGeoNet](https://link.springer.com/article/10.1007/s11263-022-01682-w)); Mesh Parameterization ([FAM](https://arxiv.org/abs/2405.14633)); 4D Spatio-Temporal Structurization ([SPCV](https://arxiv.org/abs/2403.01129)); Neural Geodesics ([NeuroGF](https://arxiv.org/abs/2306.00658)).
+
+* **Point Cloud Processing and Reconstruction:** Sampling ([MOPS-Net](https://ieeexplore.ieee.org/document/10108059/)); Completion ([Cross-PCC](https://arxiv.org/abs/2212.00564)); Generation ([WarpingGAN](https://arxiv.org/abs/2203.12917)); 4D Sequence Interpolation ([IDEA-Net](https://arxiv.org/abs/2203.11590)).
+
+* **Visual-Geometric Joint Learning:** Image-to-3D Distillation ([PointMCD](https://arxiv.org/abs/2207.03128)); Image-Assisted 3D Pre-training ([PointVST](https://arxiv.org/abs/2212.14197)); 3D Perception ([GLENet](https://arxiv.org/abs/2207.02466), [UPIDet](https://arxiv.org/abs/2301.09077)); Image Recogtition ([CoADNet](https://arxiv.org/abs/2011.04887), [DAFNet](https://arxiv.org/abs/2011.13144)).
+
+* **Digital Human:** 3D Human Reconstruction ([HaP](https://arxiv.org/abs/2311.02892)); Human-Centered 3D Gaussian Splatting ([HuGDiffusion](https://arxiv.org/abs/2501.15008)).
+
+
+### ***Current Focuses***
+
+3D generative models have achieved impressive advances in recent times; however, their actual applicability in professional asset creation workflows still remains insufficient. I am currently concentrating my research efforts on ***Production-Ready 3D AIGC*** and its integration into the asset production pipelines of real-world game industry. Ongoing R&D projects include: 
 
 * **Ultra-Realistic and Physically-Consistent Mesh Detail Generation.** (See our earlier results in [SuperCarver](http://arxiv.org/abs/2503.09439).)
 * **Mesh Texture Super-Resolution and Controllable Repainting.**
 * **Practical Mesh UV Unwrapping.** (See our earlier results in [FAM](https://arxiv.org/abs/2405.14633), [FlexPara](https://arxiv.org/abs/2504.19210).)
-
-
-### ***Ph.D. Research Topics***
-
-I have broad interests in developing deep learning models and neural optimization algorithms to solve various geometry, vision, and graphics problems. My Ph.D. research primarily falls within the areas of  ***3D Spatial Intelligence*** and ***2D-3D Cross-Modal Learning***, including the following specific topics and projects: 
-
-* **Geometry Modeling and Surface Computing:** 
-    * Regular Representation ([Flattening-Net](https://arxiv.org/abs/2212.08892), [RegGeoNet](https://link.springer.com/article/10.1007/s11263-022-01682-w))
-    * 4D Point Cloud Video Spatio-Temporal Structurization ([SPCV](https://arxiv.org/abs/2403.01129))
-    * Mesh Parameterization ([FAM](https://arxiv.org/abs/2405.14633))
-    * Neural Geodesics ([NeuroGF](https://arxiv.org/abs/2306.00658))
-
-* **Point Cloud Processing and Reconstruction:** 
-    * Sampling ([MOPS-Net](https://ieeexplore.ieee.org/document/10108059/))
-    * Completion ([Cross-PCC](https://arxiv.org/abs/2212.00564))
-    * Generation ([WarpingGAN](https://arxiv.org/abs/2203.12917))
-    * 4D Point Cloud Video Interpolation ([IDEA-Net](https://arxiv.org/abs/2203.11590))
-
-* **Visual-Geometric Joint Learning:** 
-    * Image-to-3D Distillation ([PointMCD](https://arxiv.org/abs/2207.03128))
-    * Image-Assisted 3D Pre-training ([PointVST](https://arxiv.org/abs/2212.14197))
-    * 2D&3D Perception ([CoADNet](https://arxiv.org/abs/2011.04887), [DAFNet](https://arxiv.org/abs/2011.13144), [GLENet](https://arxiv.org/abs/2207.02466), [UPIDet](https://arxiv.org/abs/2301.09077))
-  
-* **3D Digital Human:**
-    * Reconstruction & Novel View Synthesis ([HaP](https://arxiv.org/abs/2311.02892), [HuGDiffusion](https://arxiv.org/abs/2501.15008))
 
 
 # Services
