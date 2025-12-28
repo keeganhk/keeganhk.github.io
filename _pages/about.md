@@ -44,7 +44,7 @@ My Ph.D. research primarily focused on the scope of ***3D Spatial Intelligence**
 
 
 
-**Current Focus:** Despite recent breakthroughs in 3D generative models, their applicability in professional asset creation workflows remains limited. I am currently concentrating my research efforts on ***Production-Ready 3D AIGC*** and its integration into real-world game industry pipelines. My ongoing R&D projects include:
+**Current Focuses:** Despite recent breakthroughs in 3D generative models, their applicability in professional asset creation workflows remains limited. I am currently concentrating my research efforts on ***Production-Ready 3D AIGC*** and its integration into real-world game industry pipelines. My ongoing R&D projects include:
 
 * **Ultra-Realistic Mesh Geometry Detailization.** (See our earlier results in [SuperCarver](http://arxiv.org/abs/2503.09439).)
 * **Controllable Mesh Texture Repainting and Editing.**
