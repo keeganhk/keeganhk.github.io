@@ -13,7 +13,7 @@ redirect_from:
 
 * I obtained my CS Ph.D. degree from City University of Hong Kong (2020~2024) under the supervision of Prof. [Junhui Hou](https://sites.google.com/site/junhuihoushomepage/), during which I also collaborated closely with Prof. [Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping) and Prof. [Ying He](https://personal.ntu.edu.sg/yhe/). Previously, I worked as a short-term research intern guided by Prof. [Runmin Cong](https://rmcong.github.io/). I received my B.Sc. degree from Beijing Normal University in 2019.
 
-* Since August 2024, I joined Tencent as a senior AI researcher, leading an effort to 3D mesh generation and geometry processing.
+* I am currently working at Tencent as a senior researcher, leading an effort to 3D mesh generation and geometry processing.
 
 
 # News
