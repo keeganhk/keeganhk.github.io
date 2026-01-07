@@ -70,7 +70,7 @@ My Ph.D. research primarily focused on the scope of ***3D Spatial Intelligence**
         <img src="images/JGA-LBD.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
-        <a href="https://openreview.net/pdf/9d1ed4649bef3c455db7686e0408e4b0ba89ceaf.pdf">
+        <a href="https://arxiv.org/pdf/2601.00328v1">
           <papertitle><font size="3">Joint Geometry–Appearance Human Reconstruction in a Unified Latent Space via Bridge Diffusion</font></papertitle>
         </a>
         <br>
