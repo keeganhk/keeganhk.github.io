@@ -40,7 +40,7 @@ My Ph.D. research primarily focused on the scope of ***3D Spatial Intelligence**
 
 * **Visual-Geometric Joint Learning:** Image-to-3D Distillation ([PointMCD](https://arxiv.org/abs/2207.03128)); Image-Assisted 3D Pre-training ([PointVST](https://arxiv.org/abs/2212.14197)); 3D Perception ([GLENet](https://arxiv.org/abs/2207.02466), [UPIDet](https://arxiv.org/abs/2301.09077)); Image Recogtition ([CoADNet](https://arxiv.org/abs/2011.04887), [DAFNet](https://arxiv.org/abs/2011.13144)).
 
-* **Digital Human:** 3D Human Reconstruction ([HaP](https://arxiv.org/abs/2311.02892)); Feed-Forward Generation of 3D Gaussian Splatting ([HuGDiffusion](https://arxiv.org/abs/2501.15008), [JGA-LBD](https://arxiv.org/pdf/2601.00328v1)).
+* **Digital Human:** 3D Human Reconstruction ([HaP](https://arxiv.org/abs/2311.02892)); Feed-Forward Diffusion for 3D Gaussian Splatting ([HuGDiffusion](https://arxiv.org/abs/2501.15008), [JGA-LBD](https://arxiv.org/pdf/2601.00328v1)).
 
 **Current Focuses:** Despite recent breakthroughs in 3D generative models, their applicability in professional asset creation workflows remains limited. I am currently concentrating my research efforts on ***Production-Ready 3D AIGC*** and its integration into real-world game industry pipelines. My ongoing R&D projects include:
 
