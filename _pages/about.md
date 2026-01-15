@@ -18,14 +18,14 @@ redirect_from:
 
 # News
 
-* [2023.09] Two papers, **NeuroGF** for geodesics learning, **UPIDet** for cross-modal 3D detection, got accepted by **NeurIPS-2023**.
-* [2023.12] One paper, **Cross-PCC** for image-assisted 3D point cloud completion, got accepted by **TMM**.
-* [2023.12] One paper, **PointVST** for self-supervised 3D point cloud backbone pre-training, got accepted by **TVCG**.
-* [2024.06] One paper, **SPCV** for spatio-temporal structurization of dynamic 3D point cloud sequences, got accepted by **TPAMI**.
-* [2024.09] One paper, **Flatten Anything Model** for surface parameterization (UV unwrapping), got accepted by **NeurIPS-2024**.
-* [2025.03] One paper, **Human as Points** for single-image 3D human reconstruction, got accepted by **TPAMI**.
-* [2025.10] One paper, **HuGDiffusion** for 3D human Gaussian diffusion, got accepted by **TVCG**.
 * [2025.10] One paper, **FlexPara** for flexible multi-chart surface parameterization, got accepted by **TPAMI**.
+* [2025.10] One paper, **HuGDiffusion** for 3D human Gaussian diffusion, got accepted by **TVCG**.
+* [2025.03] One paper, **Human as Points** for single-image 3D human reconstruction, got accepted by **TPAMI**.
+* [2024.09] One paper, **Flatten Anything Model** for surface parameterization (UV unwrapping), got accepted by **NeurIPS-2024**.
+* [2024.06] One paper, **SPCV** for spatio-temporal structurization of dynamic 3D point cloud sequences, got accepted by **TPAMI**.
+* [2023.12] One paper, **PointVST** for self-supervised 3D point cloud backbone pre-training, got accepted by **TVCG**.
+* [2023.12] One paper, **Cross-PCC** for image-assisted 3D point cloud completion, got accepted by **TMM**.
+* [2023.09] Two papers, **NeuroGF** for geodesics learning, **UPIDet** for cross-modal 3D detection, got accepted by **NeurIPS-2023**.
 
 
 # Research
