@@ -32,6 +32,15 @@ redirect_from:
 
 In general, I have broad interests in developing deep learning models and neural optimization algorithms to solve various geometry, vision, and graphics problems. 
 
+**Current Focuses:** Despite recent breakthroughs in 3D generative models, their applicability in professional asset creation workflows remains limited. I am currently concentrating my research efforts on ***Production-Ready 3D AIGC*** and its integration into real-world game industry pipelines. My ongoing R&D projects include:
+
+* **Ultra-Realistic Mesh Geometry Detailization.** (See our earlier results in [SuperCarver](http://arxiv.org/abs/2503.09439).)
+  
+* **Controllable Mesh Texture Repainting and Editing.**
+  
+* **Practical Mesh UV Unwrapping.** (See our earlier results in [FAM](https://arxiv.org/abs/2405.14633), [FlexPara](https://arxiv.org/abs/2504.19210).)
+
+
 My Ph.D. research primarily focused on the scope of ***3D Spatial Intelligence***, encompassing the following specific topics: 
 
 * **Geometry Modeling and Surface Computing:** Regular Representation ([Flattening-Net](https://arxiv.org/abs/2212.08892), [RegGeoNet](https://link.springer.com/article/10.1007/s11263-022-01682-w)); Mesh Parameterization ([FAM](https://arxiv.org/abs/2405.14633)); 4D Spatio-Temporal Structurization ([SPCV](https://arxiv.org/abs/2403.01129)); Neural Geodesics ([NeuroGF](https://arxiv.org/abs/2306.00658)).
@@ -41,14 +50,6 @@ My Ph.D. research primarily focused on the scope of ***3D Spatial Intelligence**
 * **Visual-Geometric Joint Learning:** Image-to-3D Distillation ([PointMCD](https://arxiv.org/abs/2207.03128)); Image-Assisted 3D Pre-training ([PointVST](https://arxiv.org/abs/2212.14197)); 3D Perception ([GLENet](https://arxiv.org/abs/2207.02466), [UPIDet](https://arxiv.org/abs/2301.09077)); Image Recogtition ([CoADNet](https://arxiv.org/abs/2011.04887), [DAFNet](https://arxiv.org/abs/2011.13144)).
 
 * **Digital Human:** 3D Human Reconstruction ([HaP](https://arxiv.org/abs/2311.02892)); Feed-Forward Diffusion for 3D Gaussian Splatting ([HuGDiffusion](https://arxiv.org/abs/2501.15008), [JGA-LBD](https://arxiv.org/pdf/2601.00328v1)).
-
-**Current Focuses:** Despite recent breakthroughs in 3D generative models, their applicability in professional asset creation workflows remains limited. I am currently concentrating my research efforts on ***Production-Ready 3D AIGC*** and its integration into real-world game industry pipelines. My ongoing R&D projects include:
-
-* **Ultra-Realistic Mesh Geometry Detailization.** (See our earlier results in [SuperCarver](http://arxiv.org/abs/2503.09439).)
-  
-* **Controllable Mesh Texture Repainting and Editing.**
-  
-* **Practical Mesh UV Unwrapping.** (See our earlier results in [FAM](https://arxiv.org/abs/2405.14633), [FlexPara](https://arxiv.org/abs/2504.19210).)
 
 
 # Services
