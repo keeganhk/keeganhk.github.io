@@ -36,7 +36,7 @@ Specifically, my core research centers around the following primary directions:
 
 * **Mesh Geometry Super-Resolution:** [SuperCarver](http://arxiv.org/abs/2503.09439)
 
-* **Geometry Modeling and Surface Computing:** Regular Representation ([Flattening-Net](https://arxiv.org/abs/2212.08892), [RegGeoNet](https://link.springer.com/article/10.1007/s11263-022-01682-w)); Mesh Parameterization & UV Unwrapping ([FAM](https://arxiv.org/abs/2405.14633),[FlexPara](https://arxiv.org/abs/2504.19210)); 4D Spatio-Temporal Structurization ([SPCV](https://arxiv.org/abs/2403.01129)); Neural Geodesics ([NeuroGF](https://arxiv.org/abs/2306.00658)).
+* **Geometry Modeling and Surface Computing:** Regular Representation ([Flattening-Net](https://arxiv.org/abs/2212.08892), [RegGeoNet](https://link.springer.com/article/10.1007/s11263-022-01682-w)); Mesh Parameterization & UV Unwrapping ([FAM](https://arxiv.org/abs/2405.14633), [FlexPara](https://arxiv.org/abs/2504.19210)); 4D Spatio-Temporal Structurization ([SPCV](https://arxiv.org/abs/2403.01129)); Neural Geodesics ([NeuroGF](https://arxiv.org/abs/2306.00658)).
 
 * **Point Cloud Processing and Reconstruction:** Sampling ([MOPS-Net](https://ieeexplore.ieee.org/document/10108059/)); Completion ([Cross-PCC](https://arxiv.org/abs/2212.00564)); Generation ([WarpingGAN](https://arxiv.org/abs/2203.12917)); 4D Sequence Interpolation ([IDEA-Net](https://arxiv.org/abs/2203.11590)).
 
