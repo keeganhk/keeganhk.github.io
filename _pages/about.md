@@ -18,7 +18,7 @@ redirect_from:
 
 # News
 
-* [2026.05] One paper, **PRISM** for geodesics-guided 3D representation learning and  intrinsic geometry pre-training, got accepted by **ICML-2026**.
+* [2026.04] One paper, **PRISM** for geodesics-guided 3D representation learning and  intrinsic geometry pre-training, got accepted by **ICML-2026**.
 * [2025.10] One paper, **[FlexPara](https://arxiv.org/abs/2504.19210)** for flexible multi-chart neural surface parameterization (UV unwrapping), got accepted by **TPAMI**.
 * [2025.10] One paper, **[HuGDiffusion](https://arxiv.org/abs/2501.15008)** for 3D human Gaussian diffusion, got accepted by **TVCG**.
 * [2025.03] One paper, **[Human as Points](https://arxiv.org/abs/2311.02892)** for single-image 3D human reconstruction, got accepted by **TPAMI**.
