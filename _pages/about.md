@@ -17,7 +17,7 @@ redirect_from:
 
 
 # News
-
+* [2026.06] One paper, **[SuperCarver](https://arxiv.org/abs/2503.09439)** for high-fidelity texture-consistent 3D mesh geometry detailization, got accepted by **TVCG**.
 * [2026.04] One paper, **PRISM** for geodesics-guided 3D representation learning and  intrinsic geometry pre-training, got accepted by **ICML-2026**.
 * [2025.10] One paper, **[FlexPara](https://arxiv.org/abs/2504.19210)** for flexible multi-chart neural surface parameterization (UV unwrapping), got accepted by **TPAMI**.
 * [2025.10] One paper, **[HuGDiffusion](https://arxiv.org/abs/2501.15008)** for 3D human Gaussian diffusion, got accepted by **TVCG**.
@@ -81,26 +81,6 @@ Specifically, my core research centers around the following primary directions:
     </tr>
 
 
-    <tr>
-      <td style="border: none;" width="25%">
-        <img src="images/SuperCarver.png" height="100">
-      </td>
-      <td style="border: none;" width="75%" valign="middle">
-        <a href="http://arxiv.org/abs/2503.09439">
-          <papertitle><font size="3">SuperCarver: Texture-Consistent 3D Geometry Super-Resolution for High-Fidelity Surface Detail Generation</font></papertitle>
-        </a>
-        <br>
-        <font size="3"><strong>Qijian Zhang</strong>, Xiaozheng Jian, Xuan Zhang, Wenping Wang, Junhui Hou</font>
-        <br>
-        <font size="3"><em>Pre-print</em></font>
-      </td>
-    </tr>
-
-
-    <tr style="height: 15px; background: transparent; border: none;">
-      <td colspan="2" style="border: none; padding: 0;"></td>
-    </tr>
-
 
   </tbody>
 </table>
@@ -113,6 +93,27 @@ Specifically, my core research centers around the following primary directions:
 
 <table style="border: none;">
   <tbody>
+
+
+    <tr>
+      <td style="border: none;" width="25%">
+        <img src="images/SuperCarver.png" height="100">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="http://arxiv.org/abs/2503.09439">
+          <papertitle><font size="3">SuperCarver: Texture-Consistent 3D Geometry Super-Resolution for High-Fidelity Surface Detail Generation</font></papertitle>
+        </a>
+        <br>
+        <font size="3"><strong>Qijian Zhang</strong>, Xiaozheng Jian, Xuan Zhang, Wenping Wang, Junhui Hou</font>
+        <br>
+        <font size="3"><em>TVCG</em></font>
+      </td>
+    </tr>
+
+
+    <tr style="height: 15px; background: transparent; border: none;">
+      <td colspan="2" style="border: none; padding: 0;"></td>
+    </tr>
 
 
     <tr>
