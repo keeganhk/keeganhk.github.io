@@ -31,7 +31,7 @@ redirect_from:
 
 # Research
 
-In general, I have broad interests in developing deep learning models and neural optimization algorithms to solve various geometry, vision, and graphics problems. Currently, I am dedicated to achieving state-of-the-art, production-ready 3D mesh generation.
+In general, I have broad interests in developing deep learning models and neural optimization algorithms to solve various geometry, vision, and graphics problems. ***Currently, I am dedicated to achieving state-of-the-art, production-ready 3D mesh generation***.
 
 Specifically, my core research centers around the following primary directions:
 
