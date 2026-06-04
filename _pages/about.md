@@ -106,7 +106,7 @@ Specifically, my core research centers around the following primary directions:
         <br>
         <font size="3"><strong>Qijian Zhang</strong>, Xiaozheng Jian, Xuan Zhang, Wenping Wang, Junhui Hou</font>
         <br>
-        <font size="3"><em>TVCG</em></font>
+        <font size="3"><em>TVCG</em> 2026</font>
       </td>
     </tr>
 
