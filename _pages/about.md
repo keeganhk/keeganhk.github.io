@@ -18,7 +18,7 @@ redirect_from:
 
 # News
 * [2026.06] One paper, **[SuperCarver](https://arxiv.org/abs/2503.09439)** for high-fidelity texture-consistent 3D mesh geometry detailization, got accepted by **TVCG**.
-* [2026.04] One paper, **PRISM** for geodesics-guided 3D representation learning and  intrinsic geometry pre-training, got accepted by **ICML-2026**.
+* [2026.04] One paper, **[PRISM](https://arxiv.org/abs/2606.02268)** for geodesics-guided 3D representation learning and  intrinsic geometry pre-training, got accepted by **ICML-2026**.
 * [2025.10] One paper, **[FlexPara](https://arxiv.org/abs/2504.19210)** for flexible multi-chart neural surface parameterization (UV unwrapping), got accepted by **TPAMI**.
 * [2025.10] One paper, **[HuGDiffusion](https://arxiv.org/abs/2501.15008)** for 3D human Gaussian diffusion, got accepted by **TVCG**.
 * [2025.03] One paper, **[Human as Points](https://arxiv.org/abs/2311.02892)** for single-image 3D human reconstruction, got accepted by **TPAMI**.
@@ -37,7 +37,7 @@ Specifically, my core research centers around the following primary directions:
 
 * **Mesh Geometry Super-Resolution:** [SuperCarver](http://arxiv.org/abs/2503.09439)
 
-* **Geometry Modeling and Surface Computing:** Regular Representation ([Flattening-Net](https://arxiv.org/abs/2212.08892), [RegGeoNet](https://link.springer.com/article/10.1007/s11263-022-01682-w)); Mesh Parameterization & UV Unwrapping ([FAM](https://arxiv.org/abs/2405.14633), [FlexPara](https://arxiv.org/abs/2504.19210)); 4D Spatio-Temporal Structurization ([SPCV](https://arxiv.org/abs/2403.01129)); Neural Geodesics ([NeuroGF](https://arxiv.org/abs/2306.00658), PRISM).
+* **Geometry Modeling and Surface Computing:** Regular Representation ([Flattening-Net](https://arxiv.org/abs/2212.08892), [RegGeoNet](https://link.springer.com/article/10.1007/s11263-022-01682-w)); Mesh Parameterization & UV Unwrapping ([FAM](https://arxiv.org/abs/2405.14633), [FlexPara](https://arxiv.org/abs/2504.19210)); 4D Spatio-Temporal Structurization ([SPCV](https://arxiv.org/abs/2403.01129)); Neural Geodesics ([NeuroGF](https://arxiv.org/abs/2306.00658), [PRISM](https://arxiv.org/abs/2606.02268)).
 
 * **Point Cloud Processing and Reconstruction:** Sampling ([MOPS-Net](https://ieeexplore.ieee.org/document/10108059/)); Completion ([Cross-PCC](https://arxiv.org/abs/2212.00564)); Generation ([WarpingGAN](https://arxiv.org/abs/2203.12917)); 4D Sequence Interpolation ([IDEA-Net](https://arxiv.org/abs/2203.11590)).
 
