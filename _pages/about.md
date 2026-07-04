@@ -118,6 +118,27 @@ Specifically, my core research centers around the following primary directions:
 
     <tr>
       <td style="border: none;" width="25%">
+        <img src="images/PRISM.png" height="100">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="http://arxiv.org/abs/2503.09439">
+          <papertitle><font size="3">From Extrinsic to Intrinsic: Geodesic-guided Representation Learning for 3D Geometric Data</font></papertitle>
+        </a>
+        <br>
+        <font size="3">Yuming Zhao, Junhui Hou, <strong>Qijian Zhang</strong>, Jia Qin, Ying He</font>
+        <br>
+        <font size="3"><em>ICML</em> 2026</font>
+      </td>
+    </tr>
+
+
+    <tr style="height: 15px; background: transparent; border: none;">
+      <td colspan="2" style="border: none; padding: 0;"></td>
+    </tr>
+
+
+    <tr>
+      <td style="border: none;" width="25%">
         <img src="images/FlexPara.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
