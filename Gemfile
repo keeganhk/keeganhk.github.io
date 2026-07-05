@@ -11,12 +11,25 @@ source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
 
+# These were part of Ruby's standard library but were removed as default gems
+# in Ruby 3.4+, so they must be declared explicitly for the old Jekyll 3.9 stack.
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "logger"
+
+# Windows has no built-in tzinfo database, which Jekyll needs.
+gem "tzinfo-data"
+
+# webrick is no longer a default gem since Ruby 3.0; needed by `jekyll serve`.
+gem "webrick"
+
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 
 # gem "jekyll"
 
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+# gem "wdm", "~> 0.1.0" if Gem.win_platform?  # disabled: fails to build on Ruby 4.0; use --force_polling instead
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do

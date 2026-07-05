@@ -11,9 +11,9 @@ redirect_from:
 
 # About Me
 
-* I obtained my CS Ph.D. degree from City University of Hong Kong (2020~2024) under the supervision of Prof. [Junhui Hou](https://sites.google.com/site/junhuihoushomepage/), during which I also collaborated closely with Prof. [Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping) and Prof. [Ying He](https://personal.ntu.edu.sg/yhe/). Previously, I worked as a short-term research intern guided by Prof. [Runmin Cong](https://rmcong.github.io/). I received my B.Sc. degree from Beijing Normal University in 2019.
+* I obtained my Ph.D. in Computer Science from City University of Hong Kong (2020.09 ~ 2024.08) under the supervision of Prof. [Junhui Hou](https://sites.google.com/site/junhuihoushomepage/), during which I collaborated closely with Prof. [Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping) and Prof. [Ying He](https://personal.ntu.edu.sg/yhe/). Previously, I also worked as a short-term research intern guided by Prof. [Runmin Cong](https://rmcong.github.io/). I received my B.Sc. in Electronic Information Science and Technology from Beijing Normal University in 2019.
 
-* I am currently working at [Bambu Lab](https://bambulab.com/en-us), focusing on geometry processing and mesh generation. Previously, I was a senior researcher at Tencent, leading an effort to game-ready 3D asset generation.
+* I am currently at [Bambu Lab](https://bambulab.com/en-us), working on mesh generation and geometry processing. Previously, I was a senior researcher at Tencent, leading efforts on game-ready 3D mesh asset generation.
 
 
 # News
@@ -31,13 +31,11 @@ redirect_from:
 
 # Research
 
-In general, I have broad interests in developing deep learning models and neural optimization algorithms to solve various geometry, vision, and graphics problems. ***Currently, I am dedicated to achieving state-of-the-art, production-ready 3D mesh generation***.
-
-Specifically, my core research centers around the following primary directions:
+In general, I have broad interests in developing deep learning models and neural optimization algorithms to solve various geometry, vision, and graphics problems. Specifically, my research centers around the following primary directions:
 
 * **Mesh Geometry Super-Resolution:** [SuperCarver](http://arxiv.org/abs/2503.09439)
 
-* **Geometry Modeling and Surface Computing:** Regular Representation ([Flattening-Net](https://arxiv.org/abs/2212.08892), [RegGeoNet](https://link.springer.com/article/10.1007/s11263-022-01682-w)); Mesh Parameterization & UV Unwrapping ([FAM](https://arxiv.org/abs/2405.14633), [FlexPara](https://arxiv.org/abs/2504.19210)); 4D Spatio-Temporal Structurization ([SPCV](https://arxiv.org/abs/2403.01129)); Neural Geodesics ([NeuroGF](https://arxiv.org/abs/2306.00658), [PRISM](https://arxiv.org/abs/2606.02268)).
+* **Geometry Modeling and Surface Computing:** Regular Representation ([Flattening-Net](https://arxiv.org/abs/2212.08892), [RegGeoNet](https://link.springer.com/article/10.1007/s11263-022-01682-w)); Mesh Parameterization & UV Unwrapping ([FAM](https://arxiv.org/abs/2405.14633), [FlexPara](https://arxiv.org/abs/2504.19210)); Spatio-Temporal Structurization ([SPCV](https://arxiv.org/abs/2403.01129)); Neural Geodesics ([NeuroGF](https://arxiv.org/abs/2306.00658), [PRISM](https://arxiv.org/abs/2606.02268)).
 
 * **Point Cloud Processing and Reconstruction:** Sampling ([MOPS-Net](https://ieeexplore.ieee.org/document/10108059/)); Completion ([Cross-PCC](https://arxiv.org/abs/2212.00564)); Generation ([WarpingGAN](https://arxiv.org/abs/2203.12917)); 4D Sequence Interpolation ([IDEA-Net](https://arxiv.org/abs/2203.11590)).
 
@@ -45,6 +43,7 @@ Specifically, my core research centers around the following primary directions:
 
 * **Digital Human:** 3D Human Reconstruction ([HaP](https://arxiv.org/abs/2311.02892)); Feed-Forward Diffusion for 3D Gaussian Splatting ([HuGDiffusion](https://arxiv.org/abs/2501.15008), [JGA-LBD](https://arxiv.org/pdf/2601.00328v1)).
 
+ ***Currently, I am dedicated to achieving state-of-the-art, production-ready 3D mesh generation***.
 
 # Services
 
@@ -65,7 +64,7 @@ Specifically, my core research centers around the following primary directions:
         <img src="images/JGA-LBD.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
-        <a href="https://arxiv.org/pdf/2601.00328v1">
+        <a href="https://arxiv.org/abs/2601.00328">
           <papertitle><font size="3">Joint Geometry–Appearance Human Reconstruction in a Unified Latent Space via Bridge Diffusion</font></papertitle>
         </a>
         <br>
@@ -121,7 +120,7 @@ Specifically, my core research centers around the following primary directions:
         <img src="images/PRISM.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
-        <a href="http://arxiv.org/abs/2503.09439">
+        <a href="https://arxiv.org/abs/2606.02268">
           <papertitle><font size="3">From Extrinsic to Intrinsic: Geodesic-guided Representation Learning for 3D Geometric Data</font></papertitle>
         </a>
         <br>
