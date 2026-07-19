@@ -17,16 +17,17 @@ redirect_from:
 
 
 # News
+* [2026.07] One paper, **SeamFlow**, a flow-matching-based 3D surface cutting and UV unwrapping framework, got accepted by **SIGGRAPH Asia 2026**.
 * [2026.06] One paper, **[SuperCarver](https://arxiv.org/abs/2503.09439)** for high-fidelity texture-consistent 3D mesh geometry detailization, got accepted by **TVCG**.
-* [2026.04] One paper, **[PRISM](https://arxiv.org/abs/2606.02268)** for geodesics-guided 3D representation learning and  intrinsic geometry pre-training, got accepted by **ICML-2026**.
+* [2026.04] One paper, **[PRISM](https://arxiv.org/abs/2606.02268)** for geodesics-guided 3D representation learning and  intrinsic geometry pre-training, got accepted by **ICML 2026**.
 * [2025.10] One paper, **[FlexPara](https://arxiv.org/abs/2504.19210)** for flexible multi-chart neural surface parameterization (UV unwrapping), got accepted by **TPAMI**.
 * [2025.10] One paper, **[HuGDiffusion](https://arxiv.org/abs/2501.15008)** for 3D human Gaussian diffusion, got accepted by **TVCG**.
 * [2025.03] One paper, **[Human as Points](https://arxiv.org/abs/2311.02892)** for single-image 3D human reconstruction, got accepted by **TPAMI**.
-* [2024.09] One paper, **[Flatten Anything Model](https://arxiv.org/abs/2405.14633)** for unsupervised neural surface parameterization (UV unwrapping), got accepted by **NeurIPS-2024**.
+* [2024.09] One paper, **[Flatten Anything Model](https://arxiv.org/abs/2405.14633)** for unsupervised neural surface parameterization (UV unwrapping), got accepted by **NeurIPS 2024**.
 * [2024.06] One paper, **[SPCV](https://arxiv.org/abs/2403.01129)** for spatio-temporal structurization of dynamic 3D point cloud sequences, got accepted by **TPAMI**.
 * [2023.12] One paper, **[PointVST](https://arxiv.org/abs/2212.14197)** for self-supervised 3D point cloud backbone pre-training, got accepted by **TVCG**.
 * [2023.12] One paper, **[Cross-PCC](https://arxiv.org/abs/2212.00564)** for image-assisted 3D point cloud completion, got accepted by **TMM**.
-* [2023.09] Two papers, **[NeuroGF](https://arxiv.org/abs/2306.00658)** for implicit geodesic field representation and prediction, **[UPIDet](https://arxiv.org/abs/2301.09077)** for cross-modal 3D detection, got accepted by **NeurIPS-2023**.
+* [2023.09] Two papers, **[NeuroGF](https://arxiv.org/abs/2306.00658)** for implicit geodesic field representation and prediction, **[UPIDet](https://arxiv.org/abs/2301.09077)** for cross-modal 3D detection, got accepted by **NeurIPS 2023**.
 
 
 # Research
