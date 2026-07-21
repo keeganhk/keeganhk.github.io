@@ -17,7 +17,7 @@ redirect_from:
 
 
 # News
-* [2026.07] One paper, **SeamFlow**, a flow-matching-based 3D surface cutting and UV unwrapping framework, got accepted by **SIGGRAPH Asia 2026**.
+<!--* [2026.07] One paper, **SeamFlow**, a flow-matching-based 3D surface cutting and UV unwrapping framework, got accepted by **SIGGRAPH Asia 2026**.-->
 * [2026.06] One paper, **[SuperCarver](https://arxiv.org/abs/2503.09439)** for high-fidelity texture-consistent 3D mesh geometry detailization, got accepted by **TVCG**.
 * [2026.04] One paper, **[PRISM](https://arxiv.org/abs/2606.02268)** for geodesics-guided 3D representation learning and  intrinsic geometry pre-training, got accepted by **ICML 2026**.
 * [2025.10] One paper, **[FlexPara](https://arxiv.org/abs/2504.19210)** for flexible multi-chart neural surface parameterization (UV unwrapping), got accepted by **TPAMI**.
