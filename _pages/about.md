@@ -13,10 +13,11 @@ redirect_from:
 
 * I obtained my Ph.D. in Computer Science from City University of Hong Kong (2020.09 ~ 2024.08) under the supervision of Prof. [Junhui Hou](https://sites.google.com/site/junhuihoushomepage/), during which I collaborated closely with Prof. [Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping) and Prof. [Ying He](https://personal.ntu.edu.sg/yhe/). Previously, I also worked as a short-term research intern guided by Prof. [Runmin Cong](https://rmcong.github.io/). I received my B.Sc. in Electronic Information Science and Technology from Beijing Normal University in 2019.
 
-* I am currently at [Bambu Lab](https://bambulab.com/en-us), working on mesh generation and geometry processing. Previously, I was a senior researcher at Tencent, leading efforts on game-ready 3D mesh asset generation.
+* I am currently at [Bambu Lab](https://bambulab.com/en-us), leading efforts on 3D mesh generation. Previously, I was a senior researcher at Tencent, working on geometry processing and game-ready 3D asset generation.
 
 
 # News
+* [2026.08] One paper, **SeamFlow**, a flow-matching-based generative framework for artist-style UV unwrapping, got accepted by **SIGGRAPH Asia 2026**.
 * [2026.06] One paper, **[SuperCarver](https://arxiv.org/abs/2503.09439)** for high-fidelity texture-consistent 3D mesh geometry detailization, got accepted by **TVCG**.
 * [2026.04] One paper, **[PRISM](https://arxiv.org/abs/2606.02268)** for geodesics-guided 3D representation learning and  intrinsic geometry pre-training, got accepted by **ICML 2026**.
 * [2025.10] One paper, **[FlexPara](https://arxiv.org/abs/2504.19210)** for flexible multi-chart neural surface parameterization (UV unwrapping), got accepted by **TPAMI**.
