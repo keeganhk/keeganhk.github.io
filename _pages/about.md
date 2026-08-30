@@ -13,7 +13,7 @@ redirect_from:
 
 * I obtained my Ph.D. in Computer Science from City University of Hong Kong (2020.09 ~ 2024.10) under the supervision of Prof. [Junhui Hou](https://sites.google.com/site/junhuihoushomepage/), during which I collaborated closely with Prof. [Wenping Wang](https://www.cs.hku.hk/people/academic-staff/wenping) and Prof. [Ying He](https://personal.ntu.edu.sg/yhe/). Previously, I also worked as a short-term research intern guided by Prof. [Runmin Cong](https://rmcong.github.io/). I received my B.Sc. in Electronic Information Science and Technology from Beijing Normal University in 2019.
 
-* I am currently at [Bambu Lab](https://bambulab.com/en-us), leading efforts on 3D generative models.Previously, I joined Tencent as a Senior Researcher through Project Up (青云计划), working on neural graphics, geometry processing, and game-ready 3D asset generation.
+* I am currently at [Bambu Lab](https://bambulab.com/en-us), leading efforts on 3D generative models. Previously, I joined Tencent as a Senior Researcher selected through Project Up (青云计划), working on neural graphics, geometry processing, and game-ready 3D asset generation.
 
 
 # News
