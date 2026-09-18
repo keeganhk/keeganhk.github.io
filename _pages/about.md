@@ -16,7 +16,7 @@ redirect_from:
 * I am currently at [Bambu Lab](https://bambulab.com/en-us), leading efforts on 3D generative models. Before that, I joined Tencent as a Senior Researcher selected through Project Up (青云计划), working on geometry processing, neural graphics, and game-ready 3D asset generation.
 
 # News
-* [2026.08] One paper, **SeamFlow**, a flow-matching-based generative framework for artist-style UV unwrapping, got accepted by **SIGGRAPH Asia 2026**.
+* [2026.08] One paper, **[SeamFlow](https://arxiv.org/abs/2609.04751)**, a flow-matching-based generative framework for artist-style UV unwrapping, got accepted by **SIGGRAPH Asia 2026**.
 * [2026.06] One paper, **[SuperCarver](https://arxiv.org/abs/2503.09439)** for high-fidelity texture-consistent 3D mesh geometry detailization, got accepted by **TVCG**.
 * [2026.04] One paper, **[PRISM](https://arxiv.org/abs/2606.02268)** for geodesics-guided 3D representation learning and  intrinsic geometry pre-training, got accepted by **ICML 2026**.
 * [2025.10] One paper, **[FlexPara](https://arxiv.org/abs/2504.19210)** for flexible multi-chart neural surface parameterization (UV unwrapping), got accepted by **TPAMI**.
@@ -35,7 +35,7 @@ In general, I have broad interests in developing deep learning models and neural
 
 * **Mesh Geometry Super-Resolution:** [SuperCarver](http://arxiv.org/abs/2503.09439)
 
-* **Geometry Modeling and Surface Computing:** Regular Representation ([Flattening-Net](https://arxiv.org/abs/2212.08892), [RegGeoNet](https://link.springer.com/article/10.1007/s11263-022-01682-w)); Mesh Parameterization & UV Unwrapping ([FAM](https://arxiv.org/abs/2405.14633), [FlexPara](https://arxiv.org/abs/2504.19210), SeamFlow); Spatio-Temporal Structurization ([SPCV](https://arxiv.org/abs/2403.01129)); Neural Geodesics ([NeuroGF](https://arxiv.org/abs/2306.00658), [PRISM](https://arxiv.org/abs/2606.02268)).
+* **Geometry Modeling and Surface Computing:** Regular Representation ([Flattening-Net](https://arxiv.org/abs/2212.08892), [RegGeoNet](https://link.springer.com/article/10.1007/s11263-022-01682-w)); Mesh Parameterization & UV Unwrapping ([FAM](https://arxiv.org/abs/2405.14633), [FlexPara](https://arxiv.org/abs/2504.19210), [SeamFlow](https://arxiv.org/abs/2609.04751)); Spatio-Temporal Structurization ([SPCV](https://arxiv.org/abs/2403.01129)); Neural Geodesics ([NeuroGF](https://arxiv.org/abs/2306.00658), [PRISM](https://arxiv.org/abs/2606.02268)).
 
 * **Point Cloud Processing and Reconstruction:** Sampling ([MOPS-Net](https://ieeexplore.ieee.org/document/10108059/)); Completion ([Cross-PCC](https://arxiv.org/abs/2212.00564)); Generation ([WarpingGAN](https://arxiv.org/abs/2203.12917)); 4D Sequence Interpolation ([IDEA-Net](https://arxiv.org/abs/2203.11590)).
 
