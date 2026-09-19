@@ -110,6 +110,11 @@ In general, I have broad interests in developing deep learning models and neural
     </tr>
 
 
+    <tr style="height: 15px; background: transparent; border: none;">
+      <td colspan="2" style="border: none; padding: 0;"></td>
+    </tr>
+
+
     <tr>
       <td style="border: none;" width="25%">
         <img src="images/SuperCarver.png" height="100">
