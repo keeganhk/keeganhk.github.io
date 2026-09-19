@@ -96,6 +96,22 @@ In general, I have broad interests in developing deep learning models and neural
 
     <tr>
       <td style="border: none;" width="25%">
+        <img src="images/SeamFlow.png" height="100">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="https://arxiv.org/abs/2609.04751">
+          <papertitle><font size="3">SeamFlow: Structure-Aware Flow Matching on Edge Probabilities for Artist-Like UV Unwrapping</font></papertitle>
+        </a>
+        <br>
+        <font size="3">Yuming Zhao, Zangyueyang Xian, <strong>Qijian Zhang</strong>, Rendong Liang, Qin Jia, Ying He, Junhui Hou</font>
+        <br>
+        <font size="3"><em>SIGGRAPH Asia 2026</em> 2026</font>
+      </td>
+    </tr>
+
+
+    <tr>
+      <td style="border: none;" width="25%">
         <img src="images/SuperCarver.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
