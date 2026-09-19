@@ -105,7 +105,7 @@ In general, I have broad interests in developing deep learning models and neural
         <br>
         <font size="3">Yuming Zhao, Zangyueyang Xian, <strong>Qijian Zhang</strong>, Rendong Liang, Qin Jia, Ying He, Junhui Hou</font>
         <br>
-        <font size="3"><em>SIGGRAPH Asia 2026</em> 2026</font>
+        <font size="3"><em>SIGGRAPH Asia</em> 2026</font>
       </td>
     </tr>
 
