@@ -65,7 +65,7 @@ In general, I have broad interests in developing deep learning models and neural
         <img src="images/NVoxel.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
-        <a href="">
+        <a>
           <papertitle><font size="3">N-Voxel: Non-Uniform Sparse Voxels for High-Fidelity 3D Reconstruction</font></papertitle>
         </a>
         <br>
@@ -86,7 +86,7 @@ In general, I have broad interests in developing deep learning models and neural
         <img src="images/InstantCarver.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
-        <a href="">
+        <a>
           <papertitle><font size="3">InstantCarver: High-Fidelity 3D Geometry Enhancement within Seconds</font></papertitle>
         </a>
         <br>
@@ -113,7 +113,7 @@ In general, I have broad interests in developing deep learning models and neural
         <br>
         <font size="3">Yingzhi Tang, <strong>Qijian Zhang</strong>, Junhui Hou</font>
         <br>
-        <font size="3"><em>Pre-print</em></font>
+        <font size="3"><em></em></font>
       </td>
     </tr>
 
