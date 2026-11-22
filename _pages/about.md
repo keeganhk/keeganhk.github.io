@@ -52,8 +52,9 @@ In general, I have broad interests in developing deep learning models and neural
 * Journal Reviewer: TIP, TVCG, TMM, TCSVT, TITS, TGRS, JSTARS, etc.
 
 
-# Selected Publications
+<h1 class="pl-head">Selected Publications</h1>
 
+<p class="pl-legend"><sup class="ec-mark">*</sup> denotes equal contribution, &nbsp;<sup class="pl-mark">†</sup> denotes project lead.</p>
 
 <table style="border: none;">
   <tbody>
@@ -69,7 +70,7 @@ In general, I have broad interests in developing deep learning models and neural
           <papertitle><font size="3">N-Voxel: Non-Uniform Sparse Voxels for High-Fidelity 3D Reconstruction</font></papertitle>
         </a>
         <br>
-        <font size="3">Zhaojie Fang, <strong>Qijian Zhang</strong>, Sheng Wang, Buyu Li, Xiaoguang Han</font>
+        <font size="3">Zhaojie Fang, <strong>Qijian Zhang</strong><sup class="pl-mark" title="Project Lead">†</sup>, Sheng Wang, Buyu Li, Xiaoguang Han</font>
         <br>
         <font size="3"><em>Under Review</em></font>
       </td>
@@ -90,7 +91,7 @@ In general, I have broad interests in developing deep learning models and neural
           <papertitle><font size="3">InstantCarver: High-Fidelity 3D Geometry Enhancement within Seconds</font></papertitle>
         </a>
         <br>
-        <font size="3">Kun Guo, <strong>Qijian Zhang</strong>, Jiazhi Xia, Wenping Wang, Junhui Hou</font>
+        <font size="3">Kun Guo, <strong>Qijian Zhang</strong><sup class="pl-mark" title="Project Lead">†</sup>, Jiazhi Xia, Wenping Wang, Junhui Hou</font>
         <br>
         <font size="3"><em>Under Review</em></font>
       </td>
@@ -566,7 +567,7 @@ In general, I have broad interests in developing deep learning models and neural
           <papertitle><font size="3">CoADNet: Collaborative Aggregation-and-Distribution Networks for Co-Salient Object Detection</font></papertitle>
         </a>
         <br>
-        <font size="3"><strong>Qijian Zhang</strong>*, Runmin Cong* , Junhui Hou, Chongyi Li, Yao Zhao</font>
+        <font size="3"><strong>Qijian Zhang</strong><sup class="ec-mark" title="Equal contribution">*</sup>, Runmin Cong<sup class="ec-mark" title="Equal contribution">*</sup>, Junhui Hou, Chongyi Li, Yao Zhao</font>
         <br>
         <font size="3"><em>NeurIPS</em> 2020</font>
       </td>
