@@ -61,7 +61,7 @@ In general, I have broad interests in developing deep learning models and neural
 
     <tr>
       <td style="border: none;" width="25%">
-        <img src="images/" height="100">
+        <img src="images/NVoxel.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
         <a href="">
@@ -82,7 +82,7 @@ In general, I have broad interests in developing deep learning models and neural
 
     <tr>
       <td style="border: none;" width="25%">
-        <img src="images/" height="100">
+        <img src="images/InstantCarver.png" height="100">
       </td>
       <td style="border: none;" width="75%" valign="middle">
         <a href="">
