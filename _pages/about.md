@@ -57,8 +57,50 @@ In general, I have broad interests in developing deep learning models and neural
 
 <table style="border: none;">
   <tbody>
-  
 
+
+    <tr>
+      <td style="border: none;" width="25%">
+        <img src="images/" height="100">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="">
+          <papertitle><font size="3">N-Voxel: Non-Uniform Sparse Voxels for High-Fidelity 3D Reconstruction</font></papertitle>
+        </a>
+        <br>
+        <font size="3">Zhaojie Fang, <strong>Qijian Zhang</strong>, Sheng Wang, Buyu Li, Xiaoguang Han</font>
+        <br>
+        <font size="3"><em>Pre-print</em></font>
+      </td>
+    </tr>
+
+
+    <tr style="height: 15px; background: transparent; border: none;">
+      <td colspan="2" style="border: none; padding: 0;"></td>
+    </tr>
+
+
+    <tr>
+      <td style="border: none;" width="25%">
+        <img src="images/" height="100">
+      </td>
+      <td style="border: none;" width="75%" valign="middle">
+        <a href="">
+          <papertitle><font size="3">InstantCarver: High-Fidelity 3D Geometry Enhancement within Seconds</font></papertitle>
+        </a>
+        <br>
+        <font size="3">Kun Guo, <strong>Qijian Zhang</strong>, Jiazhi Xia, Wenping Wang, Junhui Hou</font>
+        <br>
+        <font size="3"><em>Pre-print</em></font>
+      </td>
+    </tr>
+
+
+    <tr style="height: 15px; background: transparent; border: none;">
+      <td colspan="2" style="border: none; padding: 0;"></td>
+    </tr>
+
+  
     <tr>
       <td style="border: none;" width="25%">
         <img src="images/JGA-LBD.png" height="100">
