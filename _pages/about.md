@@ -71,7 +71,7 @@ In general, I have broad interests in developing deep learning models and neural
         <br>
         <font size="3">Zhaojie Fang, <strong>Qijian Zhang</strong>, Sheng Wang, Buyu Li, Xiaoguang Han</font>
         <br>
-        <font size="3"><em>Pre-print</em></font>
+        <font size="3"><em>Under Review</em></font>
       </td>
     </tr>
 
@@ -92,7 +92,7 @@ In general, I have broad interests in developing deep learning models and neural
         <br>
         <font size="3">Kun Guo, <strong>Qijian Zhang</strong>, Jiazhi Xia, Wenping Wang, Junhui Hou</font>
         <br>
-        <font size="3"><em>Pre-print</em></font>
+        <font size="3"><em>Under Review</em></font>
       </td>
     </tr>
 
